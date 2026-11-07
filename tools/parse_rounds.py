@@ -28,12 +28,22 @@ def parse_draws(doc):
         program = str(rec.get("drawName") or "").strip()
         if not program or program == "undefined":
             raise ValueError(f"{key}: missing drawName")
+        raw_number = str(rec.get("drawNumber") or "").strip()
+        if raw_number.isdigit():
+            number, number_source = int(raw_number), None
+        elif raw_number:
+            # IRCC ships non-numeric numbers ("91a"/"91b"); keep the record, never renumber it.
+            number, number_source = None, f"IRCC drawNumber {raw_number}"
+        else:
+            raise ValueError(f"{key}: missing drawNumber")
         out.append({
-            "draw_number": _int(rec.get("drawNumber")),
+            "draw_number": number,
+            "number_source": number_source,
             "draw_date": _iso_date(rec.get("drawDateFull")),
             "program": program,
             "number_of_invitations": _int(rec.get("drawSize")),
             "crs_cutoff": _int(rec.get("drawCRS")),
             "tie_break": rec.get("drawCutOff") or None,
         })
-    return sorted(out, key=lambda r: (r["draw_date"], r["draw_number"]))
+    return sorted(out, key=lambda r: (r["draw_date"],
+                                      r["draw_number"] if r["draw_number"] is not None else -1))
