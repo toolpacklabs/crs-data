@@ -89,6 +89,7 @@
     }
   },
   "second_language": {
+    "maxima": {"single": 24, "with_spouse": 22},
     "single": {"4": 0, "5": 1, "6": 1, "7": 3, "8": 3, "9": 6, "10": 6},
     "with_spouse": {"4": 0, "5": 1, "6": 1, "7": 3, "8": 3, "9": 6, "10": 6}
   },
@@ -98,8 +99,8 @@
       "3_years_plus": {"clb7_8": 25, "clb9_plus": 50}
     },
     "canadian_work": {
-      "1_year": {"clb7_8": 13, "clb9_plus": 25},
-      "2_years_plus": {"clb7_8": 25, "clb9_plus": 50}
+      "1_2_years": {"1_year": 13, "2_years_plus": 25},
+      "3_years_plus": {"1_year": 25, "2_years_plus": 50}
     }
   },
   "certificate_of_qualification": {

@@ -9,5 +9,5 @@
   "fetched_at": "2026-11-07T21:09:00Z",
   "note": "The calculator script still contains pre-2026-11-03 job-offer code and has no Labour Market Integration branch; golden profiles stay inside the seven modelled factors so the totals are valid for both the published tables and the script.",
   "profile_count": 24,
-  "all_rows_cross_checked_against_rules_json": true
+  "cross_check": "python3 tools/cross_check_golden.py fixtures/golden/golden_cases.csv"
 }

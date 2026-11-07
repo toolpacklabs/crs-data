@@ -53,6 +53,22 @@ def validate(path: str) -> list[str]:
                     errors.append(f"additional.{key}.{band} missing")
     if rules["additional"]["pnp"] != 600:
         errors.append("pnp must be 600")
+    maxima = rules["second_language"].get("maxima", {})
+    if maxima.get("single") != 24 or maxima.get("with_spouse") != 22:
+        errors.append("second_language.maxima must be single 24 / with_spouse 22")
+    for mode in ("single", "with_spouse"):
+        for key in ("4", "5", "6", "7", "8", "9", "10"):
+            if key not in rules["second_language"].get(mode, {}):
+                errors.append(f"second_language.{mode}.{key} missing")
+    for outer, inner in (("1_2_years", ("1_year", "2_years_plus")),
+                         ("3_years_plus", ("1_year", "2_years_plus"))):
+        entry = rules["foreign_work"]["canadian_work"].get(outer)
+        if not isinstance(entry, dict):
+            errors.append(f"foreign_work.canadian_work.{outer} missing")
+            continue
+        for key in inner:
+            if key not in entry:
+                errors.append(f"foreign_work.canadian_work.{outer}.{key} missing")
     for table in ("education_language", "education_work"):
         for tier in SCORED:
             entry = rules["transferability"][table].get(tier)
