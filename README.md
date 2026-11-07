@@ -63,7 +63,7 @@ python3 tools/selftest.py \
 | `selftest.py` | The parser or the validator changed behaviour. | Do not "fix" the assertion. Read the traceback; the fixture and the tool disagree. |
 | `replay.py` | The frozen mirror changed, or normalisation regressed. | The assertion prints the offending value. If the frozen file moved, re-freeze it and re-check draw 453 by hand. |
 | `validate_rules.py` | `data/rules.json` is no longer the 2026-11 pack. | Rules changes are their own reviewed change, not a pipeline fix. |
-| `validate.py` | The document `update.py` just wrote is wrong (cut-off out of range, duplicate id, non-monotonic dates, non-canada.ca source, missing field). | Nothing was committed. Read the printed error lines; they name the draw and the field. |
+| `validate.py` | The document `update.py` just wrote is wrong: cut-off out of range, invitations ≤ 0, duplicate id, non-monotonic dates **or draw numbers**, a `draw_date` later than its own `harvested_at` (a mis-dated or future round), a wrong field type (`draw_number` not an int, `tie_break`/`pool_as_of` not a string, an unparseable `pool_as_of`), a non-canada.ca source, or a missing field. | Nothing was committed. Read the printed error lines; they name the draw and the field. |
 | `update.py` itself | Both sources failed, or the official file returned zero rounds. | Nothing was committed. Re-run once by hand; if canada.ca and the mirror both fail, leave it — the app keeps serving the last good `rounds.json`. |
 
 `update.py` prints one line on success, e.g.
