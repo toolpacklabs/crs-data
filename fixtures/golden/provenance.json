@@ -1,0 +1,13 @@
+{
+  "criteria_page": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html",
+  "criteria_page_sha256": "891540fbded99c3abb4f8e9667ea2f07a396715dd6f25efa47c5f6d1a469f143",
+  "criteria_page_bytes": 59933,
+  "calculator_page": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html",
+  "calculator_page_sha256": "7a7950a6ec92b873ef3f88519b836dee105edd67cb93134fed87f54c7dc0dba7",
+  "official_tool": "https://ircc.canada.ca/english/immigrate/skilled/crs-tool-udit.js",
+  "official_tool_sha256": "2dbc3dc028526afd00f5f40a94444594558916485c7a3175cea77bc4e881ac26",
+  "fetched_at": "2026-11-07T21:09:00Z",
+  "note": "The calculator script still contains pre-2026-11-03 job-offer code and has no Labour Market Integration branch; golden profiles stay inside the seven modelled factors so the totals are valid for both the published tables and the script.",
+  "profile_count": 24,
+  "all_rows_cross_checked_against_rules_json": true
+}
