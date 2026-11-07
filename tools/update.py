@@ -90,7 +90,9 @@ def program_key(program: str) -> str:
     return "_".join(parts)
 
 def from_canada() -> list:
-    doc = requests.get(ROUNDS_JSON, timeout=45).json()
+    resp = requests.get(ROUNDS_JSON, timeout=45)
+    resp.raise_for_status()
+    doc = resp.json()
     rows = parse_draws(doc)
     if not rows:
         raise ValueError("official JSON returned zero rounds")
@@ -138,12 +140,18 @@ def from_community_record(r: dict) -> dict:
     }
 
 def from_community() -> list:
-    records = requests.get(COMMUNITY_URL, timeout=45).json()
+    resp = requests.get(COMMUNITY_URL, timeout=45)
+    resp.raise_for_status()
+    records = resp.json()
+    if not records:
+        raise ValueError("community mirror returned zero records")
     return [from_community_record(r) for r in records]
 
 def draw_id(r: dict):
+    # Null-number records are identified by date plus the program name, the same pair the
+    # validator uses (spec 5.2 rule 2); the key would not survive a renaming of the stream.
     return r["draw_number"] if r["draw_number"] is not None \
-        else f"{r['draw_date']}:{r['program_key']}"
+        else f"{r['draw_date']}:{r['program']}"
 
 def merge(old: list, new: list) -> list:
     by_id = {draw_id(r): r for r in old}
@@ -165,6 +173,9 @@ def sha256(path: str) -> str:
     return h.hexdigest()
 
 def main() -> None:
+    if not os.path.exists("data/rules.json"):
+        # Never publish a meta.json that omits the rule pack or calls it "unversioned".
+        raise SystemExit("data/rules.json missing")
     os.makedirs("data", exist_ok=True)
     old = []
     if os.path.exists("data/rounds.json"):
@@ -178,21 +189,21 @@ def main() -> None:
         new = from_community()
         used = "community"
 
+    now = now_iso()  # one run timestamp for every field that must agree
     draws = merge(old, new)
     if not draws:
         raise SystemExit("no draws parsed; refusing to publish")
-    draws[-1]["harvested_at"] = now_iso()  # a successful check refreshes freshness even without a new draw
+    draws[-1]["harvested_at"] = now  # a successful check refreshes freshness even without a new draw
 
-    write_json("data/rounds.json", {"generated_at": now_iso(), "draws": draws})
-    files = {"rounds.json": sha256("data/rounds.json")}
-    rules_version = "unversioned"
-    if os.path.exists("data/rules.json"):
-        files["rules.json"] = sha256("data/rules.json")
-        rules_version = json.load(open("data/rules.json", encoding="utf-8"))["version"]
+    write_json("data/rounds.json", {"generated_at": now, "draws": draws})
+    files = {"rounds.json": sha256("data/rounds.json"),
+             "rules.json": sha256("data/rules.json")}
+    rules_version = json.load(open("data/rules.json", encoding="utf-8"))["version"]
     write_json("data/meta.json", {
         "latest_draw": draws[-1]["draw_number"],
         "rules_version": rules_version,
-        "generated_at": now_iso(),
+        "generated_at": now,
+        "source": used,
         "files": files,
     })
 

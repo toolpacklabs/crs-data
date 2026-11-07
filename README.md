@@ -2,13 +2,13 @@
 
 Data published for the F2 CRS Calculator app. The app fetches `meta.json` first (with its
 cached ETag), compares each recorded SHA-256 with the file it already holds, and downloads
-only what changed, through a jsDelivr mirror of this repository
-(`https://cdn.jsdelivr.net/gh/dz1825/crs-data@main/`).
+only what changed, through a jsDelivr mirror of this repository's `data/` directory
+(`https://cdn.jsdelivr.net/gh/dz1825/crs-data@main/data/meta.json`).
 
 - `data/rounds.json` — every IRCC Express Entry round we know of (454 at 2026-11-07),
   oldest first, each with its provenance.
-- `data/meta.json` — `latest_draw`, `rules_version`, `generated_at` and the SHA-256 of every
-  published file. This is the app's freshness check.
+- `data/meta.json` — `latest_draw`, `rules_version`, `generated_at`, `source` and the SHA-256
+  of every published file. This is the app's freshness check.
 - `data/rules.json` — the 2026-11 CRS rule tables (Task 5).
 - `fixtures/` — the parser snippet, a **frozen copy of the community mirror**
   (`community_454.json`, so CI never depends on jsDelivr staying up), the hand-transcribed
@@ -28,6 +28,9 @@ was never run, so the workflow's first run is the real test of this mode. If can
 blocks the runner IP, `update.py` logs `primary source failed: …; falling back to
 community` on stderr and reads `RB9744/express-entry-draws` instead; the records then carry
 the mirror URL in `harvested_from` while `source_url` stays on the canonical canada.ca page.
+
+`data/meta.json` records which fetcher produced a run in its `source` key (`"http"` or
+`"community"`), so a fallback week is visible from the freshness document alone.
 
 The job runs these steps in order. Any failing step fails the job, so a broken parser,
 a moved fixture or a bad document **never publishes**:
@@ -93,9 +96,9 @@ publish action is a one-time, human step:
 2. `git remote add origin git@github.com:dz1825/crs-data.git && git push -u origin main`
 3. Run the `update` workflow once (`workflow_dispatch`) so the bot commits the first refresh
    and proves the runner can reach a source.
-4. Check `https://cdn.jsdelivr.net/gh/dz1825/crs-data@main/meta.json` returns `files` with
-   SHA-256 values. The app's `DATA_BASE_URL` in `app/build.gradle.kts` already points there,
-   so no app change is needed once the repository exists under that name.
+4. Check `https://cdn.jsdelivr.net/gh/dz1825/crs-data@main/data/meta.json` returns `files`
+   with SHA-256 values. The app's `DATA_BASE_URL` in `app/build.gradle.kts` already points at
+   that directory, so no app change is needed once the repository exists under that name.
 
 ## Sources, provenance and known defects
 
