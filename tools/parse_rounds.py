@@ -1,34 +1,39 @@
+import datetime
 import re
 
-ROW = re.compile(r"<tr[^>]*>(.*?)</tr>", re.S | re.I)
-CELL = re.compile(r"<t[dh][^>]*>(.*?)</t[dh]>", re.S | re.I)
-TAG = re.compile(r"<[^>]+>")
+MONTHS = {m: i for i, m in enumerate(
+    ["January", "February", "March", "April", "May", "June", "July",
+     "August", "September", "October", "November", "December"], start=1)}
 
-def _text(cell: str) -> str:
-    return re.sub(r"\s+", " ", TAG.sub(" ", cell)).strip()
+def _int(value):
+    text = str(value or "").strip()
+    if not re.fullmatch(r"[\d,]+", text):
+        raise ValueError(f"not a number: {value!r}")
+    return int(text.replace(",", ""))
 
-def _int(value: str) -> int:
-    return int(value.replace(",", ""))
+def _iso_date(text):
+    m = re.fullmatch(r"([A-Z][a-z]+) (\d{1,2}), (\d{4})", str(text or "").strip())
+    if not m or m.group(1) not in MONTHS:
+        raise ValueError(f"not a date: {text!r}")
+    return datetime.date(int(m.group(3)), MONTHS[m.group(1)], int(m.group(2))).isoformat()
 
-def parse_rounds(html: str) -> list[dict]:
+def parse_draws(doc):
+    rounds = doc.get("rounds")
+    if not isinstance(rounds, dict):
+        raise ValueError("rounds is not an object")
     out = []
-    for row in ROW.findall(html):
-        cells = [_text(c) for c in CELL.findall(row)]
-        if len(cells) < 6:
-            continue
-        date, number, program, invitations, cutoff, tie = cells[:6]
-        if not re.fullmatch(r"\d{1,3}", number):
-            continue
-        if not re.fullmatch(r"[\d,]+", invitations):
-            continue
-        if not re.fullmatch(r"\d{1,4}", cutoff):
-            continue
+    for key, rec in rounds.items():
+        if not isinstance(rec, dict):
+            raise ValueError(f"{key}: not an object")
+        program = str(rec.get("drawName") or "").strip()
+        if not program or program == "undefined":
+            raise ValueError(f"{key}: missing drawName")
         out.append({
-            "draw_number": _int(number),
-            "draw_date": date,
+            "draw_number": _int(rec.get("drawNumber")),
+            "draw_date": _iso_date(rec.get("drawDateFull")),
             "program": program,
-            "number_of_invitations": _int(invitations),
-            "crs_cutoff": _int(cutoff),
-            "tie_break": tie or None,
+            "number_of_invitations": _int(rec.get("drawSize")),
+            "crs_cutoff": _int(rec.get("drawCRS")),
+            "tie_break": rec.get("drawCutOff") or None,
         })
-    return out
+    return sorted(out, key=lambda r: (r["draw_date"], r["draw_number"]))
