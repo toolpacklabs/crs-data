@@ -1,0 +1,4088 @@
+[
+ {
+  "draw_number": "453",
+  "draw_date": "2026-10-28",
+  "draw_name": "Transport Occupations, 2026-Version 2",
+  "invitations": 150,
+  "crs_cutoff": 477,
+  "tie_break_rule": "June 4, 2026 at 21:48:22 UTC",
+  "distribution_as_of": "October 25, 2026"
+ },
+ {
+  "draw_number": "452",
+  "draw_date": "2026-10-27",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 5000,
+  "crs_cutoff": 407,
+  "tie_break_rule": "July 13, 2026 at 19:22:00 UTC",
+  "distribution_as_of": "October 25, 2026"
+ },
+ {
+  "draw_number": "451",
+  "draw_date": "2026-10-26",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 792,
+  "crs_cutoff": 761,
+  "tie_break_rule": "April 03, 2026 at 18:00:26 UTC",
+  "distribution_as_of": "October 25, 2026"
+ },
+ {
+  "draw_number": "450",
+  "draw_date": "2026-10-16",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 5000,
+  "crs_cutoff": 435,
+  "tie_break_rule": "October 06, 2026 at 21:31:22 UTC",
+  "distribution_as_of": "October 12, 2026"
+ },
+ {
+  "draw_number": "449",
+  "draw_date": "2026-10-15",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 2500,
+  "crs_cutoff": 519,
+  "tie_break_rule": "September 21, 2026 at 19:00:47 UTC",
+  "distribution_as_of": "October 12, 2026"
+ },
+ {
+  "draw_number": "448",
+  "draw_date": "2026-10-13",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 752,
+  "crs_cutoff": 772,
+  "tie_break_rule": "July 15, 2026 at 13:57:33",
+  "distribution_as_of": "October 12, 2026"
+ },
+ {
+  "draw_number": "447",
+  "draw_date": "2026-10-01",
+  "draw_name": "Trades Occupations, 2026-Version 3",
+  "invitations": 3500,
+  "crs_cutoff": 476,
+  "tie_break_rule": "May 28, 2026 at 16:55:23 UTC",
+  "distribution_as_of": "September 27, 2026"
+ },
+ {
+  "draw_number": "446",
+  "draw_date": "2026-09-29",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 2000,
+  "crs_cutoff": 518,
+  "tie_break_rule": "February 13, 2026 at 20:48:08 UTC",
+  "distribution_as_of": "September 27, 2026"
+ },
+ {
+  "draw_number": "445",
+  "draw_date": "2026-09-28",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 733,
+  "crs_cutoff": 725,
+  "tie_break_rule": "September 17, 2026 at 01:36:17 UTC",
+  "distribution_as_of": "September 27, 2026"
+ },
+ {
+  "draw_number": "444",
+  "draw_date": "2026-09-16",
+  "draw_name": "Senior managers with Canadian Work Experience, 2026-Version 1",
+  "invitations": 250,
+  "crs_cutoff": 389,
+  "tie_break_rule": "September 01, 2026 at 23:05:13 UTC",
+  "distribution_as_of": "September 13, 2026"
+ },
+ {
+  "draw_number": "443",
+  "draw_date": "2026-09-15",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 2000,
+  "crs_cutoff": 519,
+  "tie_break_rule": "March 26, 2026 at 00:16:39 UTC",
+  "distribution_as_of": "September 13, 2026"
+ },
+ {
+  "draw_number": "442",
+  "draw_date": "2026-09-14",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 576,
+  "crs_cutoff": 734,
+  "tie_break_rule": "August 29, 2026 at 21:39:50 UTC",
+  "distribution_as_of": "September 13, 2026"
+ },
+ {
+  "draw_number": "441",
+  "draw_date": "2026-09-04",
+  "draw_name": "Healthcare and Social Services Occupations, 2026-Version 3",
+  "invitations": 3500,
+  "crs_cutoff": 475,
+  "tie_break_rule": "May 26, 2026 at 00:26:14 UTC",
+  "distribution_as_of": "August 30, 2026"
+ },
+ {
+  "draw_number": "440",
+  "draw_date": "2026-09-03",
+  "draw_name": "Physicians with Canadian Work Experience, 2026-Version 1",
+  "invitations": 229,
+  "crs_cutoff": 198,
+  "tie_break_rule": "August 06, 2026 at 19:40:38 UTC",
+  "distribution_as_of": "August 30, 2026"
+ },
+ {
+  "draw_number": "439",
+  "draw_date": "2026-09-01",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 2000,
+  "crs_cutoff": 521,
+  "tie_break_rule": "August 18, 2026 at 03:24:13 UTC",
+  "distribution_as_of": "August 30, 2026"
+ },
+ {
+  "draw_number": "438",
+  "draw_date": "2026-08-31",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 562,
+  "crs_cutoff": 697,
+  "tie_break_rule": "April 12th, 2026 at 04:32:26 UTC",
+  "distribution_as_of": "August 30, 2026"
+ },
+ {
+  "draw_number": "437",
+  "draw_date": "2026-08-19",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 5000,
+  "crs_cutoff": 382,
+  "tie_break_rule": "March 1, 2026 at 18:34:05 UTC",
+  "distribution_as_of": "August 16, 2026"
+ },
+ {
+  "draw_number": "436",
+  "draw_date": "2026-08-18",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 1000,
+  "crs_cutoff": 523,
+  "tie_break_rule": "August 17, 2026 at 22:09:00 UTC",
+  "distribution_as_of": "August 16, 2026"
+ },
+ {
+  "draw_number": "435",
+  "draw_date": "2026-08-17",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 442,
+  "crs_cutoff": 760,
+  "tie_break_rule": "August 07, 2026 at 18:01:56 UTC",
+  "distribution_as_of": "August 16, 2026"
+ },
+ {
+  "draw_number": "434",
+  "draw_date": "2026-08-07",
+  "draw_name": "Transport Occupations, 2026-Version 2",
+  "invitations": 300,
+  "crs_cutoff": 470,
+  "tie_break_rule": "October 11, 2025 at 14:55:49 UTC",
+  "distribution_as_of": "August 3, 2026"
+ },
+ {
+  "draw_number": "433",
+  "draw_date": "2026-08-06",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 5000,
+  "crs_cutoff": 391,
+  "tie_break_rule": "March 18, 2026 at 23:32:40 UTC",
+  "distribution_as_of": "August 3, 2026"
+ },
+ {
+  "draw_number": "432",
+  "draw_date": "2026-08-05",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3000,
+  "crs_cutoff": 516,
+  "tie_break_rule": "July 3rd 2026 at 21:35:13 UTC",
+  "distribution_as_of": "August 3, 2026"
+ },
+ {
+  "draw_number": "431",
+  "draw_date": "2026-08-04",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 507,
+  "crs_cutoff": 768,
+  "tie_break_rule": "May 15, 2026 at 15:58:19 UTC",
+  "distribution_as_of": "August 3, 2026"
+ },
+ {
+  "draw_number": "430",
+  "draw_date": "2026-07-23",
+  "draw_name": "Skilled Military Recruits, 2026-Version 1",
+  "invitations": 4,
+  "crs_cutoff": 368,
+  "tie_break_rule": "June 02, 2026 at 20:11:26 UTC",
+  "distribution_as_of": "July 19, 2026"
+ },
+ {
+  "draw_number": "429",
+  "draw_date": "2026-07-22",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 5000,
+  "crs_cutoff": 399,
+  "tie_break_rule": "November 19, 2025 at 21:21:56 UTC",
+  "distribution_as_of": "July 19, 2026"
+ },
+ {
+  "draw_number": "428",
+  "draw_date": "2026-07-21",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 2000,
+  "crs_cutoff": 516,
+  "tie_break_rule": "May 26, 2026 at 17:33:03 UTC",
+  "distribution_as_of": "July 19, 2026"
+ },
+ {
+  "draw_number": "427",
+  "draw_date": "2026-07-20",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 511,
+  "crs_cutoff": 744,
+  "tie_break_rule": "May 26, 2026 at 18:11:36 UTC",
+  "distribution_as_of": "July 19, 2026"
+ },
+ {
+  "draw_number": "426",
+  "draw_date": "2026-07-10",
+  "draw_name": "Senior managers with Canadian Work Experience, 2026-Version 1",
+  "invitations": 500,
+  "crs_cutoff": 392,
+  "tie_break_rule": "March 15, 2026 at 01:46:05 UTC",
+  "distribution_as_of": "July 5, 2026"
+ },
+ {
+  "draw_number": "425",
+  "draw_date": "2026-07-09",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 5000,
+  "crs_cutoff": 420,
+  "tie_break_rule": "May 15, 2026 at 08:04:00 UTC",
+  "distribution_as_of": "July 5, 2026"
+ },
+ {
+  "draw_number": "424",
+  "draw_date": "2026-07-07",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 2000,
+  "crs_cutoff": 517,
+  "tie_break_rule": "December 29, 2025 at 17:49:27 UTC",
+  "distribution_as_of": "July 5, 2026"
+ },
+ {
+  "draw_number": "423",
+  "draw_date": "2026-07-06",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 534,
+  "crs_cutoff": 708,
+  "tie_break_rule": "June 4, 2026 at 14:49:51 UTC",
+  "distribution_as_of": "July 5, 2026"
+ },
+ {
+  "draw_number": "422",
+  "draw_date": "2026-06-25",
+  "draw_name": "Healthcare and Social Services Occupations, 2026-Version 3",
+  "invitations": 4000,
+  "crs_cutoff": 475,
+  "tie_break_rule": "May 21, 2026 at 12:14:09 UTC",
+  "distribution_as_of": "June 21, 2026"
+ },
+ {
+  "draw_number": "421",
+  "draw_date": "2026-06-24",
+  "draw_name": "Physicians with Canadian Work Experience, 2026-Version 1",
+  "invitations": 271,
+  "crs_cutoff": 223,
+  "tie_break_rule": "May 31, 2026 at 18:13:49 UTC",
+  "distribution_as_of": "June 21, 2026"
+ },
+ {
+  "draw_number": "420",
+  "draw_date": "2026-06-23",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 4000,
+  "crs_cutoff": 516,
+  "tie_break_rule": "April 14, 2026 at 00:03:10 UTC",
+  "distribution_as_of": "June 21, 2026"
+ },
+ {
+  "draw_number": "419",
+  "draw_date": "2026-06-22",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 955,
+  "crs_cutoff": 730,
+  "tie_break_rule": "March 09, 2026 at 01:02:28 UTC",
+  "distribution_as_of": "June 21, 2026"
+ },
+ {
+  "draw_number": "418",
+  "draw_date": "2026-05-28",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 4500,
+  "crs_cutoff": 409,
+  "tie_break_rule": "April 29, 2026 at 22:20:00 UTC",
+  "distribution_as_of": "May 24, 2026"
+ },
+ {
+  "draw_number": "417",
+  "draw_date": "2026-05-27",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3000,
+  "crs_cutoff": 518,
+  "tie_break_rule": "April 30, 2026 at 03:16:01 UTC",
+  "distribution_as_of": "May 24, 2026"
+ },
+ {
+  "draw_number": "416",
+  "draw_date": "2026-05-25",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 334,
+  "crs_cutoff": 805,
+  "tie_break_rule": "October 16, 2025 at 18:16:33 UTC",
+  "distribution_as_of": "May 10, 2026"
+ },
+ {
+  "draw_number": "415",
+  "draw_date": "2026-05-11",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 380,
+  "crs_cutoff": 798,
+  "tie_break_rule": "January 07, 2026 at 05:23:31 UTC",
+  "distribution_as_of": "May 10, 2026"
+ },
+ {
+  "draw_number": "414",
+  "draw_date": "2026-04-29",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 4000,
+  "crs_cutoff": 400,
+  "tie_break_rule": "April 07, 2026 at 20:13:59 UTC",
+  "distribution_as_of": "April 26, 2026"
+ },
+ {
+  "draw_number": "413",
+  "draw_date": "2026-04-28",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 2000,
+  "crs_cutoff": 514,
+  "tie_break_rule": "September 24, 2025 at 14:18:43 UTC",
+  "distribution_as_of": "April 26, 2026"
+ },
+ {
+  "draw_number": "412",
+  "draw_date": "2026-04-27",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 473,
+  "crs_cutoff": 795,
+  "tie_break_rule": "April 13, 2026 at 23:10:05 UTC",
+  "distribution_as_of": "April 26, 2026"
+ },
+ {
+  "draw_number": "411",
+  "draw_date": "2026-04-15",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 4000,
+  "crs_cutoff": 419,
+  "tie_break_rule": "November 14, 2025 at 07:14:25 UTC",
+  "distribution_as_of": "April 12, 2026"
+ },
+ {
+  "draw_number": "410",
+  "draw_date": "2026-04-14",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 2000,
+  "crs_cutoff": 515,
+  "tie_break_rule": "June 10, 2025 at 02:46:26 UTC",
+  "distribution_as_of": "April 12, 2026"
+ },
+ {
+  "draw_number": "409",
+  "draw_date": "2026-04-13",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 324,
+  "crs_cutoff": 786,
+  "tie_break_rule": "November 19, 2025 at 18:53:59 UTC",
+  "distribution_as_of": "March 29, 2026"
+ },
+ {
+  "draw_number": "408",
+  "draw_date": "2026-04-02",
+  "draw_name": "Trades Occupations, 2026-Version 3",
+  "invitations": 3000,
+  "crs_cutoff": 477,
+  "tie_break_rule": "February 14, 2026 at 20:53:54 UTC",
+  "distribution_as_of": "March 29, 2026"
+ },
+ {
+  "draw_number": "407",
+  "draw_date": "2026-03-31",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 2250,
+  "crs_cutoff": 509,
+  "tie_break_rule": "March 18, 2026 at 08:27:11 UTC",
+  "distribution_as_of": "March 29, 2026"
+ },
+ {
+  "draw_number": "406",
+  "draw_date": "2026-03-30",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 356,
+  "crs_cutoff": 802,
+  "tie_break_rule": "February 12, 2026 at 03:54:03 UTC",
+  "distribution_as_of": "March 29, 2026"
+ },
+ {
+  "draw_number": "405",
+  "draw_date": "2026-03-18",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 4000,
+  "crs_cutoff": 393,
+  "tie_break_rule": "December 29, 2025 at 12:47:31 UTC",
+  "distribution_as_of": "March 15, 2026"
+ },
+ {
+  "draw_number": "404",
+  "draw_date": "2026-03-17",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 4000,
+  "crs_cutoff": 507,
+  "tie_break_rule": "May 11, 2025 at 18:57:31 UTC",
+  "distribution_as_of": "March 15, 2026"
+ },
+ {
+  "draw_number": "403",
+  "draw_date": "2026-03-16",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 362,
+  "crs_cutoff": 742,
+  "tie_break_rule": "October 05, 2025 at 20:35:25 UTC",
+  "distribution_as_of": "March 15, 2026"
+ },
+ {
+  "draw_number": "402",
+  "draw_date": "2026-03-05",
+  "draw_name": "Senior managers with Canadian Work Experience, 2026-Version 1",
+  "invitations": 250,
+  "crs_cutoff": 429,
+  "tie_break_rule": "August 19, 2025 at 15:10:18 UTC",
+  "distribution_as_of": "March 1, 2026"
+ },
+ {
+  "draw_number": "401",
+  "draw_date": "2026-03-04",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 5500,
+  "crs_cutoff": 397,
+  "tie_break_rule": "October 10, 2025 at 18:18:20 UTC",
+  "distribution_as_of": "March 1, 2026"
+ },
+ {
+  "draw_number": "400",
+  "draw_date": "2026-03-03",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 4000,
+  "crs_cutoff": 508,
+  "tie_break_rule": "June 24, 2025 at 22:35:48 UTC",
+  "distribution_as_of": "March 1, 2026"
+ },
+ {
+  "draw_number": "399",
+  "draw_date": "2026-03-02",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 264,
+  "crs_cutoff": 710,
+  "tie_break_rule": "August 07, 2025 at 18:02:56 UTC",
+  "distribution_as_of": "March 1, 2026"
+ },
+ {
+  "draw_number": "398",
+  "draw_date": "2026-02-20",
+  "draw_name": "Healthcare and Social Services Occupations, 2026-Version 3",
+  "invitations": 4000,
+  "crs_cutoff": 467,
+  "tie_break_rule": "December 09, 2025 at 18:22:06 UTC",
+  "distribution_as_of": "February 15, 2026"
+ },
+ {
+  "draw_number": "397",
+  "draw_date": "2026-02-19",
+  "draw_name": "Physicians with Canadian Work Experience, 2026-Version 1",
+  "invitations": 391,
+  "crs_cutoff": 169,
+  "tie_break_rule": "January 03, 2026 at 03:25:14 UTC",
+  "distribution_as_of": "February 15, 2026"
+ },
+ {
+  "draw_number": "396",
+  "draw_date": "2026-02-17",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 6000,
+  "crs_cutoff": 508,
+  "tie_break_rule": "March 16, 2025 at 09:35:59 UTC",
+  "distribution_as_of": "February 15, 2026"
+ },
+ {
+  "draw_number": "395",
+  "draw_date": "2026-02-16",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 279,
+  "crs_cutoff": 789,
+  "tie_break_rule": "September 05, 2025 at 0:59:13 UTC",
+  "distribution_as_of": "February 15, 2026"
+ },
+ {
+  "draw_number": "394",
+  "draw_date": "2026-02-06",
+  "draw_name": "French-Language proficiency 2026-Version 2",
+  "invitations": 8500,
+  "crs_cutoff": 400,
+  "tie_break_rule": "February 03, 2026 at 11:11:44 UTC",
+  "distribution_as_of": "February 2, 2026"
+ },
+ {
+  "draw_number": "393",
+  "draw_date": "2026-02-03",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 423,
+  "crs_cutoff": 749,
+  "tie_break_rule": "December 16, 2025 at 22:30:36 UTC",
+  "distribution_as_of": "February 2, 2026"
+ },
+ {
+  "draw_number": "392",
+  "draw_date": "2026-01-21",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 6000,
+  "crs_cutoff": 509,
+  "tie_break_rule": "October 29, 2025 at 04:35:24 UTC",
+  "distribution_as_of": "January 19, 2026"
+ },
+ {
+  "draw_number": "391",
+  "draw_date": "2026-01-20",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 681,
+  "crs_cutoff": 746,
+  "tie_break_rule": "November 19, 2025 at 04:09:11 UTC",
+  "distribution_as_of": "January 19, 2026"
+ },
+ {
+  "draw_number": "390",
+  "draw_date": "2026-01-07",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 8000,
+  "crs_cutoff": 511,
+  "tie_break_rule": "June 10, 2025 at 15:59:25 UTC",
+  "distribution_as_of": "January 4, 2026"
+ },
+ {
+  "draw_number": "389",
+  "draw_date": "2026-01-05",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 574,
+  "crs_cutoff": 711,
+  "tie_break_rule": "October 06, 2025 at 01:54:31 UTC",
+  "distribution_as_of": "January 4, 2026"
+ },
+ {
+  "draw_number": "388",
+  "draw_date": "2025-12-17",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 6000,
+  "crs_cutoff": 399,
+  "tie_break_rule": "August 24, 2025 at 23:43:05 UTC",
+  "distribution_as_of": "December 14, 2025"
+ },
+ {
+  "draw_number": "387",
+  "draw_date": "2025-12-16",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 5000,
+  "crs_cutoff": 515,
+  "tie_break_rule": "September 9, 2025 at 18:58:59 UTC",
+  "distribution_as_of": "December 14, 2025"
+ },
+ {
+  "draw_number": "386",
+  "draw_date": "2025-12-15",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 399,
+  "crs_cutoff": 731,
+  "tie_break_rule": "October 18, 2025 at 7:18:52 UTC",
+  "distribution_as_of": "December 15, 2025"
+ },
+ {
+  "draw_number": "385",
+  "draw_date": "2025-12-11",
+  "draw_name": "Healthcare and social services occupations (Version 2)",
+  "invitations": 1000,
+  "crs_cutoff": 476,
+  "tie_break_rule": "November 26, 2025 at 07:44:30 UTC",
+  "distribution_as_of": "December 7, 2025"
+ },
+ {
+  "draw_number": "384",
+  "draw_date": "2025-12-10",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 6000,
+  "crs_cutoff": 520,
+  "tie_break_rule": "July 15, 2025 at 17:30:33 UTC",
+  "distribution_as_of": "December 7, 2025"
+ },
+ {
+  "draw_number": "383",
+  "draw_date": "2025-12-08",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1123,
+  "crs_cutoff": 729,
+  "tie_break_rule": "March 05, 2025 at 05:10:48",
+  "distribution_as_of": "December 7, 2025"
+ },
+ {
+  "draw_number": "382",
+  "draw_date": "2025-11-28",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 6000,
+  "crs_cutoff": 408,
+  "tie_break_rule": "May 26 2025 at 12:28:38 UTC",
+  "distribution_as_of": "November 24, 2025"
+ },
+ {
+  "draw_number": "381",
+  "draw_date": "2025-11-26",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 1000,
+  "crs_cutoff": 531,
+  "tie_break_rule": "October 08, 2025 at 19:02:26 UTC",
+  "distribution_as_of": "November 24, 2025"
+ },
+ {
+  "draw_number": "380",
+  "draw_date": "2025-11-25",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 777,
+  "crs_cutoff": 699,
+  "tie_break_rule": "September 06, 2025 at 01:16:22 UTC",
+  "distribution_as_of": "November 23, 2025"
+ },
+ {
+  "draw_number": "379",
+  "draw_date": "2025-11-14",
+  "draw_name": "Healthcare and social services occupations (Version 2)",
+  "invitations": 3500,
+  "crs_cutoff": 462,
+  "tie_break_rule": "December 02, 2024 at 22:19:41 UTC",
+  "distribution_as_of": "November 9, 2025"
+ },
+ {
+  "draw_number": "378",
+  "draw_date": "2025-11-12",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 1000,
+  "crs_cutoff": 533,
+  "tie_break_rule": "October 17, 2025 at 03:39:05 UTC",
+  "distribution_as_of": "November 9, 2025"
+ },
+ {
+  "draw_number": "377",
+  "draw_date": "2025-11-10",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 714,
+  "crs_cutoff": 738,
+  "tie_break_rule": "February 22, 2025 at 2:12:01 UTC",
+  "distribution_as_of": "November 9, 2025"
+ },
+ {
+  "draw_number": "376",
+  "draw_date": "2025-10-29",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 6000,
+  "crs_cutoff": 416,
+  "tie_break_rule": "September 8, 2025 at 15:27:09 UTC",
+  "distribution_as_of": "October 26, 2025"
+ },
+ {
+  "draw_number": "375",
+  "draw_date": "2025-10-28",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 1000,
+  "crs_cutoff": 533,
+  "tie_break_rule": "March 21, 2025 at 04:16:27 UTC",
+  "distribution_as_of": "October 26, 2025"
+ },
+ {
+  "draw_number": "374",
+  "draw_date": "2025-10-27",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 302,
+  "crs_cutoff": 761,
+  "tie_break_rule": "September 26, 2025 at 02:14:06 UTC",
+  "distribution_as_of": "October 26, 2025"
+ },
+ {
+  "draw_number": "373",
+  "draw_date": "2025-10-15",
+  "draw_name": "Healthcare and social services occupations (Version 2)",
+  "invitations": 2500,
+  "crs_cutoff": 472,
+  "tie_break_rule": "May 12, 2025 at 23:17:30 UTC",
+  "distribution_as_of": "October 13, 2025"
+ },
+ {
+  "draw_number": "372",
+  "draw_date": "2025-10-14",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 345,
+  "crs_cutoff": 778,
+  "tie_break_rule": "July 17, 2025 at 19:58:49 UTC",
+  "distribution_as_of": "October 13, 2025"
+ },
+ {
+  "draw_number": "371",
+  "draw_date": "2025-10-06",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 4500,
+  "crs_cutoff": 432,
+  "tie_break_rule": "June 13, 2025 at 19:07:01 UTC",
+  "distribution_as_of": "September 28, 2025"
+ },
+ {
+  "draw_number": "370",
+  "draw_date": "2025-10-01",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 1000,
+  "crs_cutoff": 534,
+  "tie_break_rule": "February 21, 2025 at 04:01:57 UTC",
+  "distribution_as_of": "September 28, 2025"
+ },
+ {
+  "draw_number": "369",
+  "draw_date": "2025-09-29",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 291,
+  "crs_cutoff": 855,
+  "tie_break_rule": "April 08, 2025 at 01:25:29 UTC",
+  "distribution_as_of": "September 28, 2025"
+ },
+ {
+  "draw_number": "368",
+  "draw_date": "2025-09-18",
+  "draw_name": "Trade occupations (Version 2)",
+  "invitations": 1250,
+  "crs_cutoff": 505,
+  "tie_break_rule": "November 05, 2024 at 22:36:09 UTC",
+  "distribution_as_of": "September 14, 2025"
+ },
+ {
+  "draw_number": "367",
+  "draw_date": "2025-09-17",
+  "draw_name": "Education occupations (Version 1)",
+  "invitations": 2500,
+  "crs_cutoff": 462,
+  "tie_break_rule": "July 09, 2025 at 04:24:19 UTC",
+  "distribution_as_of": "September 14, 2025"
+ },
+ {
+  "draw_number": "366",
+  "draw_date": "2025-09-15",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 228,
+  "crs_cutoff": 746,
+  "tie_break_rule": "March 31, 2025 at 13:39:06 UTC",
+  "distribution_as_of": "September 14, 2025"
+ },
+ {
+  "draw_number": "365",
+  "draw_date": "2025-09-04",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 4500,
+  "crs_cutoff": 446,
+  "tie_break_rule": "June 16, 2025 at 07:21:06 UTC",
+  "distribution_as_of": "September 1, 2025"
+ },
+ {
+  "draw_number": "364",
+  "draw_date": "2025-09-03",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 1000,
+  "crs_cutoff": 534,
+  "tie_break_rule": "August 14, 2025 at 08:28:38 UTC",
+  "distribution_as_of": "September 1, 2025"
+ },
+ {
+  "draw_number": "363",
+  "draw_date": "2025-09-02",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 249,
+  "crs_cutoff": 772,
+  "tie_break_rule": "August 28, 2025 at 19:19:18 UTC",
+  "distribution_as_of": "September 1, 2025"
+ },
+ {
+  "draw_number": "362",
+  "draw_date": "2025-08-19",
+  "draw_name": "Healthcare and social services occupations (Version 2)",
+  "invitations": 2500,
+  "crs_cutoff": 470,
+  "tie_break_rule": "April 23, 2025 at 20:08:53 UTC",
+  "distribution_as_of": "August 17, 2025"
+ },
+ {
+  "draw_number": "361",
+  "draw_date": "2025-08-18",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 192,
+  "crs_cutoff": 800,
+  "tie_break_rule": "February 11, 2025 at 19:17:09 UTC",
+  "distribution_as_of": "August 17, 2025"
+ },
+ {
+  "draw_number": "360",
+  "draw_date": "2025-08-08",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 2500,
+  "crs_cutoff": 481,
+  "tie_break_rule": "July 18, 2025 at 05:16:06 UTC",
+  "distribution_as_of": "August 5, 2025"
+ },
+ {
+  "draw_number": "359",
+  "draw_date": "2025-08-07",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 1000,
+  "crs_cutoff": 534,
+  "tie_break_rule": "August 03, 2025 at 06:22:02 UTC",
+  "distribution_as_of": "August 5, 2025"
+ },
+ {
+  "draw_number": "358",
+  "draw_date": "2025-08-06",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 225,
+  "crs_cutoff": 739,
+  "tie_break_rule": "April 23, 2025 at 06:35:51 UTC",
+  "distribution_as_of": "August 5, 2025"
+ },
+ {
+  "draw_number": "357",
+  "draw_date": "2025-07-22",
+  "draw_name": "Healthcare and social services occupations (Version 2)",
+  "invitations": 4000,
+  "crs_cutoff": 475,
+  "tie_break_rule": "March 13, 2025 at 13:08:29 UTC",
+  "distribution_as_of": "July 20, 2025"
+ },
+ {
+  "draw_number": "356",
+  "draw_date": "2025-07-21",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 202,
+  "crs_cutoff": 788,
+  "tie_break_rule": "June 05, 2025 at 23:50:45 UTC",
+  "distribution_as_of": "July 20, 2025"
+ },
+ {
+  "draw_number": "355",
+  "draw_date": "2025-07-08",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3000,
+  "crs_cutoff": 518,
+  "tie_break_rule": "October 02, 2024 at 1:48:36 UTC",
+  "distribution_as_of": "July 6, 2025"
+ },
+ {
+  "draw_number": "354",
+  "draw_date": "2025-07-07",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 356,
+  "crs_cutoff": 750,
+  "tie_break_rule": "March 19, 2025 at 04:09:09 UTC",
+  "distribution_as_of": "July 6, 2025"
+ },
+ {
+  "draw_number": "353",
+  "draw_date": "2025-06-26",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3000,
+  "crs_cutoff": 521,
+  "tie_break_rule": "November 21, 2024 at 15:56:13 UTC",
+  "distribution_as_of": "June 22, 2025"
+ },
+ {
+  "draw_number": "352",
+  "draw_date": "2025-06-23",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 503,
+  "crs_cutoff": 742,
+  "tie_break_rule": "May 30, 2025 at 21:44:57 UTC",
+  "distribution_as_of": "June 22, 2025"
+ },
+ {
+  "draw_number": "351",
+  "draw_date": "2025-06-12",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3000,
+  "crs_cutoff": 529,
+  "tie_break_rule": "September 28, 2024 at 18:06:46 UTC",
+  "distribution_as_of": "June 11, 2025"
+ },
+ {
+  "draw_number": "350",
+  "draw_date": "2025-06-10",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 125,
+  "crs_cutoff": 784,
+  "tie_break_rule": "September 12, 2024 at 18:12:15 UTC",
+  "distribution_as_of": "June 9, 2025"
+ },
+ {
+  "draw_number": "349",
+  "draw_date": "2025-06-04",
+  "draw_name": "Healthcare and social services occupations (Version 2)",
+  "invitations": 500,
+  "crs_cutoff": 504,
+  "tie_break_rule": "March 31, 2025 at 06:47:23 UTC",
+  "distribution_as_of": "June 1, 2025"
+ },
+ {
+  "draw_number": "348",
+  "draw_date": "2025-06-02",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 277,
+  "crs_cutoff": 726,
+  "tie_break_rule": "September 24, 2024 at 15:46:19 UTC",
+  "distribution_as_of": "June 1, 2025"
+ },
+ {
+  "draw_number": "347",
+  "draw_date": "2025-05-13",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 500,
+  "crs_cutoff": 547,
+  "tie_break_rule": "May 21, 2024 at 17:26:27 UTC",
+  "distribution_as_of": "May 13, 2025"
+ },
+ {
+  "draw_number": "346",
+  "draw_date": "2025-05-12",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 511,
+  "crs_cutoff": 706,
+  "tie_break_rule": "March 04, 2025 at 22:35:42 UTC",
+  "distribution_as_of": "May 12, 2025"
+ },
+ {
+  "draw_number": "345",
+  "draw_date": "2025-05-02",
+  "draw_name": "Healthcare and social services occupations (Version 2)",
+  "invitations": 500,
+  "crs_cutoff": 510,
+  "tie_break_rule": "July 21, 2024 at 04:31:17 UTC",
+  "distribution_as_of": "April 27, 2025"
+ },
+ {
+  "draw_number": "344",
+  "draw_date": "2025-05-01",
+  "draw_name": "Education occupations (Version 1)",
+  "invitations": 1000,
+  "crs_cutoff": 479,
+  "tie_break_rule": "August 10, 2024 at 10:35:55 UTC",
+  "distribution_as_of": "April 27, 2025"
+ },
+ {
+  "draw_number": "343",
+  "draw_date": "2025-04-28",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 421,
+  "crs_cutoff": 727,
+  "tie_break_rule": "September 09, 2024 at 17:11:19 UTC",
+  "distribution_as_of": "April 27, 2025"
+ },
+ {
+  "draw_number": "342",
+  "draw_date": "2025-04-14",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 825,
+  "crs_cutoff": 764,
+  "tie_break_rule": "August 17, 2024 at 18:35:52 UTC",
+  "distribution_as_of": "April 13, 2025"
+ },
+ {
+  "draw_number": "341",
+  "draw_date": "2025-03-21",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 7500,
+  "crs_cutoff": 379,
+  "tie_break_rule": "March 06, 2025 at 02:53:27 UTC",
+  "distribution_as_of": "March 16, 2025"
+ },
+ {
+  "draw_number": "340",
+  "draw_date": "2025-03-17",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 536,
+  "crs_cutoff": 736,
+  "tie_break_rule": "March 12, 2025 at 14:02:14 UTC",
+  "distribution_as_of": "March 16, 2025"
+ },
+ {
+  "draw_number": "339",
+  "draw_date": "2025-03-06",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 4500,
+  "crs_cutoff": 410,
+  "tie_break_rule": "February 11, 2025 at 07:47:29 UTC",
+  "distribution_as_of": "March 3, 2025"
+ },
+ {
+  "draw_number": "338",
+  "draw_date": "2025-03-03",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 725,
+  "crs_cutoff": 667,
+  "tie_break_rule": "June 05, 2024 at 18:25:22 UTC",
+  "distribution_as_of": "March 3, 2025"
+ },
+ {
+  "draw_number": "337",
+  "draw_date": "2025-02-19",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 6500,
+  "crs_cutoff": 428,
+  "tie_break_rule": "February 10, 2025 at 16:41:38 UTC",
+  "distribution_as_of": "February 16, 2025"
+ },
+ {
+  "draw_number": "336",
+  "draw_date": "2025-02-17",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 646,
+  "crs_cutoff": 750,
+  "tie_break_rule": "July 23, 2024 at 17:41:11 UTC",
+  "distribution_as_of": "February 16, 2025"
+ },
+ {
+  "draw_number": "335",
+  "draw_date": "2025-02-05",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 4000,
+  "crs_cutoff": 521,
+  "tie_break_rule": "November 14, 2024 at 02:52:14 UTC",
+  "distribution_as_of": "February 5, 2025"
+ },
+ {
+  "draw_number": "334",
+  "draw_date": "2025-02-04",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 455,
+  "crs_cutoff": 802,
+  "tie_break_rule": "December 07, 2024 at 19:39:25 UTC",
+  "distribution_as_of": "February 4, 2025"
+ },
+ {
+  "draw_number": "333",
+  "draw_date": "2025-01-23",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 4000,
+  "crs_cutoff": 527,
+  "tie_break_rule": "July 23, 2024 at 07:06:43 UTC",
+  "distribution_as_of": "January 23, 2025"
+ },
+ {
+  "draw_number": "332",
+  "draw_date": "2025-01-08",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 1350,
+  "crs_cutoff": 542,
+  "tie_break_rule": "December 07, 2024 at 01:10:06 UTC",
+  "distribution_as_of": "January 8, 2025"
+ },
+ {
+  "draw_number": "331",
+  "draw_date": "2025-01-07",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 471,
+  "crs_cutoff": 793,
+  "tie_break_rule": "November 25, 2024 at 16:57:27 UTC",
+  "distribution_as_of": "January 7, 2025"
+ },
+ {
+  "draw_number": "330",
+  "draw_date": "2024-12-16",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1085,
+  "crs_cutoff": 727,
+  "tie_break_rule": "September 18, 2024 at 13:39:10 UTC",
+  "distribution_as_of": "December 16, 2024"
+ },
+ {
+  "draw_number": "329",
+  "draw_date": "2024-12-03",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 800,
+  "crs_cutoff": 466,
+  "tie_break_rule": "November 26, 2024 at 02:44:59 UTC",
+  "distribution_as_of": "December 1, 2024"
+ },
+ {
+  "draw_number": "328",
+  "draw_date": "2024-12-02",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 676,
+  "crs_cutoff": 705,
+  "tie_break_rule": "November 27, 2024 at 18:15:17 UTC",
+  "distribution_as_of": "December 1, 2024"
+ },
+ {
+  "draw_number": "327",
+  "draw_date": "2024-11-20",
+  "draw_name": "Healthcare occupations (Version 1)",
+  "invitations": 3000,
+  "crs_cutoff": 463,
+  "tie_break_rule": "October 21, 2024 at 16:12:39 UTC",
+  "distribution_as_of": "November 18, 2024"
+ },
+ {
+  "draw_number": "326",
+  "draw_date": "2024-11-19",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 400,
+  "crs_cutoff": 539,
+  "tie_break_rule": "July 08, 2024 at 01:41:37 UTC",
+  "distribution_as_of": "November 18, 2024"
+ },
+ {
+  "draw_number": "325",
+  "draw_date": "2024-11-18",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 174,
+  "crs_cutoff": 816,
+  "tie_break_rule": "August 28, 2024 at 05:12:34 UTC",
+  "distribution_as_of": "November 17, 2024"
+ },
+ {
+  "draw_number": "324",
+  "draw_date": "2024-11-15",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 800,
+  "crs_cutoff": 478,
+  "tie_break_rule": "November 07, 2024 at 13:12:03 UTC",
+  "distribution_as_of": "November 12, 2024"
+ },
+ {
+  "draw_number": "323",
+  "draw_date": "2024-11-13",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 400,
+  "crs_cutoff": 547,
+  "tie_break_rule": "April 10, 2024 at 03:58:05 UTC",
+  "distribution_as_of": "November 12, 2024"
+ },
+ {
+  "draw_number": "322",
+  "draw_date": "2024-11-12",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 733,
+  "crs_cutoff": 812,
+  "tie_break_rule": "March 02. 2024 at 01:58:34 UTC",
+  "distribution_as_of": "November 11, 2024"
+ },
+ {
+  "draw_number": "321",
+  "draw_date": "2024-10-23",
+  "draw_name": "Trade occupations (Version 1)",
+  "invitations": 1800,
+  "crs_cutoff": 433,
+  "tie_break_rule": "March 12, 2024 at 14:30:36 UTC",
+  "distribution_as_of": "October 22, 2024"
+ },
+ {
+  "draw_number": "320",
+  "draw_date": "2024-10-22",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 400,
+  "crs_cutoff": 539,
+  "tie_break_rule": "October 19, 2024 at 21:53:18 UTC",
+  "distribution_as_of": "October 22, 2024"
+ },
+ {
+  "draw_number": "319",
+  "draw_date": "2024-10-21",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 648,
+  "crs_cutoff": 791,
+  "tie_break_rule": "August 13, 2024 at 20:04:52 UTC",
+  "distribution_as_of": "October 21, 2024"
+ },
+ {
+  "draw_number": "318",
+  "draw_date": "2024-10-10",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 1000,
+  "crs_cutoff": 444,
+  "tie_break_rule": "September 27, 2024 at 18:56:32 UTC",
+  "distribution_as_of": "October 9, 2024"
+ },
+ {
+  "draw_number": "317",
+  "draw_date": "2024-10-09",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 500,
+  "crs_cutoff": 539,
+  "tie_break_rule": "February 20, 2024 at 02:57:40 UTC",
+  "distribution_as_of": "October 9, 2024"
+ },
+ {
+  "draw_number": "316",
+  "draw_date": "2024-10-07",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1613,
+  "crs_cutoff": 743,
+  "tie_break_rule": "March 22, 2024 at 18:36:54 UTC",
+  "distribution_as_of": "October 7, 2024"
+ },
+ {
+  "draw_number": "315",
+  "draw_date": "2024-09-19",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 4000,
+  "crs_cutoff": 509,
+  "tie_break_rule": "November 06, 2023 at 20:17:35 UTC",
+  "distribution_as_of": "September 19, 2024"
+ },
+ {
+  "draw_number": "314",
+  "draw_date": "2024-09-13",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 1000,
+  "crs_cutoff": 446,
+  "tie_break_rule": "August 28, 2024 at 17:07:19 UTC",
+  "distribution_as_of": "September 9, 2024"
+ },
+ {
+  "draw_number": "313",
+  "draw_date": "2024-09-09",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 911,
+  "crs_cutoff": 732,
+  "tie_break_rule": "March 13, 2024 at 19:56:16 UTC",
+  "distribution_as_of": "September 9, 2024"
+ },
+ {
+  "draw_number": "312",
+  "draw_date": "2024-08-27",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3300,
+  "crs_cutoff": 507,
+  "tie_break_rule": "April 17, 2024 at 20:11:20 UTC",
+  "distribution_as_of": "August 27, 2024"
+ },
+ {
+  "draw_number": "311",
+  "draw_date": "2024-08-26",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1121,
+  "crs_cutoff": 694,
+  "tie_break_rule": "August 03, 2024 at 18:54:27 UTC",
+  "distribution_as_of": "August 26, 2024"
+ },
+ {
+  "draw_number": "310",
+  "draw_date": "2024-08-15",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 2000,
+  "crs_cutoff": 394,
+  "tie_break_rule": "July 07, 2024 at 09:46:10 UTC",
+  "distribution_as_of": "August 14, 2024"
+ },
+ {
+  "draw_number": "309",
+  "draw_date": "2024-08-14",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3200,
+  "crs_cutoff": 509,
+  "tie_break_rule": "March 01, 2024 at 19:23:21 UTC",
+  "distribution_as_of": "August 14, 2024"
+ },
+ {
+  "draw_number": "308",
+  "draw_date": "2024-08-13",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 763,
+  "crs_cutoff": 690,
+  "tie_break_rule": "April 26, 2024 at 10:59:30 UTC",
+  "distribution_as_of": "August 13, 2024"
+ },
+ {
+  "draw_number": "307",
+  "draw_date": "2024-07-31",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 5000,
+  "crs_cutoff": 510,
+  "tie_break_rule": "June 30, 2024 at 20:39:14 UTC",
+  "distribution_as_of": "July 31, 2024"
+ },
+ {
+  "draw_number": "306",
+  "draw_date": "2024-07-30",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 964,
+  "crs_cutoff": 686,
+  "tie_break_rule": "May 27, 2024 at 07:07:21 UTC",
+  "distribution_as_of": "July 30, 2024"
+ },
+ {
+  "draw_number": "305",
+  "draw_date": "2024-07-18",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 1800,
+  "crs_cutoff": 400,
+  "tie_break_rule": "March 08, 2024 at 19:51:40 UTC",
+  "distribution_as_of": "July 17, 2024"
+ },
+ {
+  "draw_number": "304",
+  "draw_date": "2024-07-17",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 6300,
+  "crs_cutoff": 515,
+  "tie_break_rule": "February 03, 2024 at 13:01:06 UTC",
+  "distribution_as_of": "July 17, 2024"
+ },
+ {
+  "draw_number": "303",
+  "draw_date": "2024-07-16",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1391,
+  "crs_cutoff": 670,
+  "tie_break_rule": "May 04, 2024 at 13:27:31 UTC",
+  "distribution_as_of": "July 16, 2024"
+ },
+ {
+  "draw_number": "302",
+  "draw_date": "2024-07-08",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 3200,
+  "crs_cutoff": 420,
+  "tie_break_rule": "May 30, 2024 at 03:37:43 UTC",
+  "distribution_as_of": "July 2, 2024"
+ },
+ {
+  "draw_number": "301",
+  "draw_date": "2024-07-05",
+  "draw_name": "Healthcare occupations (Version 1)",
+  "invitations": 3750,
+  "crs_cutoff": 445,
+  "tie_break_rule": "May 07, 2024 at 21:27:04 UTC",
+  "distribution_as_of": "July 2, 2024"
+ },
+ {
+  "draw_number": "300",
+  "draw_date": "2024-07-04",
+  "draw_name": "Trade occupations (Version 1)",
+  "invitations": 1800,
+  "crs_cutoff": 436,
+  "tie_break_rule": "July 16, 2023 at 15:44:59 UTC",
+  "distribution_as_of": "July 2, 2024"
+ },
+ {
+  "draw_number": "299",
+  "draw_date": "2024-07-02",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 920,
+  "crs_cutoff": 739,
+  "tie_break_rule": "February 02, 2024 at 11:38:43 UTC",
+  "distribution_as_of": "July 2, 2024"
+ },
+ {
+  "draw_number": "298",
+  "draw_date": "2024-06-19",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1499,
+  "crs_cutoff": 663,
+  "tie_break_rule": "January 19, 2024 at 10:10:40 UTC",
+  "distribution_as_of": "May 30, 2024"
+ },
+ {
+  "draw_number": "297",
+  "draw_date": "2024-05-31",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3000,
+  "crs_cutoff": 522,
+  "tie_break_rule": "March 19, 2024 at 18:58:58 UTC",
+  "distribution_as_of": "May 29, 2024"
+ },
+ {
+  "draw_number": "296",
+  "draw_date": "2024-05-30",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 2985,
+  "crs_cutoff": 676,
+  "tie_break_rule": "January 19, 2024 at 18:32:21 UTC",
+  "distribution_as_of": "May 29, 2024"
+ },
+ {
+  "draw_number": "295",
+  "draw_date": "2024-04-24",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 1400,
+  "crs_cutoff": 410,
+  "tie_break_rule": "April 07, 2024 at 02:06:46 UTC",
+  "distribution_as_of": "April 23, 2024"
+ },
+ {
+  "draw_number": "294",
+  "draw_date": "2024-04-23",
+  "draw_name": "General",
+  "invitations": 2095,
+  "crs_cutoff": 529,
+  "tie_break_rule": "November 08, 2023 at 17:50:29 UTC",
+  "distribution_as_of": "April 23, 2024"
+ },
+ {
+  "draw_number": "293",
+  "draw_date": "2024-04-11",
+  "draw_name": "STEM occupations (Version 1)",
+  "invitations": 4500,
+  "crs_cutoff": 491,
+  "tie_break_rule": "February 25, 2024 at 11:55:12 UTC",
+  "distribution_as_of": "April 9, 2024"
+ },
+ {
+  "draw_number": "292",
+  "draw_date": "2024-04-10",
+  "draw_name": "General",
+  "invitations": 1280,
+  "crs_cutoff": 549,
+  "tie_break_rule": "March 21, 2024 at 03:37:24 UTC",
+  "distribution_as_of": "April 9, 2024"
+ },
+ {
+  "draw_number": "291",
+  "draw_date": "2024-03-26",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 1500,
+  "crs_cutoff": 388,
+  "tie_break_rule": "March 10, 2024 at 20:06:26 UTC",
+  "distribution_as_of": "March 24, 2024"
+ },
+ {
+  "draw_number": "290",
+  "draw_date": "2024-03-25",
+  "draw_name": "General",
+  "invitations": 1980,
+  "crs_cutoff": 524,
+  "tie_break_rule": "February 25, 2024 at 14:42:38 UTC",
+  "distribution_as_of": "March 24, 2024"
+ },
+ {
+  "draw_number": "289",
+  "draw_date": "2024-03-13",
+  "draw_name": "Transport occupations (Version 1)",
+  "invitations": 975,
+  "crs_cutoff": 430,
+  "tie_break_rule": "July 31, 2023 at 13:27:26 UTC",
+  "distribution_as_of": "March 11, 2024"
+ },
+ {
+  "draw_number": "288",
+  "draw_date": "2024-03-12",
+  "draw_name": "General",
+  "invitations": 2850,
+  "crs_cutoff": 525,
+  "tie_break_rule": "November 01, 2023 at 17:08:51 UTC",
+  "distribution_as_of": "March 11, 2024"
+ },
+ {
+  "draw_number": "287",
+  "draw_date": "2024-02-29",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 2500,
+  "crs_cutoff": 336,
+  "tie_break_rule": "January 18, 2024 at 09:15:46 UTC",
+  "distribution_as_of": "February 27, 2024"
+ },
+ {
+  "draw_number": "286",
+  "draw_date": "2024-02-28",
+  "draw_name": "General",
+  "invitations": 1470,
+  "crs_cutoff": 534,
+  "tie_break_rule": "January 16, 2024 at 03:51:05 UTC",
+  "distribution_as_of": "February 27, 2024"
+ },
+ {
+  "draw_number": "285",
+  "draw_date": "2024-02-16",
+  "draw_name": "Agriculture and agri-food occupations (Version 1)",
+  "invitations": 150,
+  "crs_cutoff": 437,
+  "tie_break_rule": "January 29, 2024 at 03:32:58 UTC",
+  "distribution_as_of": "February 11, 2024"
+ },
+ {
+  "draw_number": "284",
+  "draw_date": "2024-02-14",
+  "draw_name": "Healthcare occupations (Version 1)",
+  "invitations": 3500,
+  "crs_cutoff": 422,
+  "tie_break_rule": "January 30, 2024 at 02:39:54 UTC",
+  "distribution_as_of": "February 11, 2024"
+ },
+ {
+  "draw_number": "283",
+  "draw_date": "2024-02-13",
+  "draw_name": "General",
+  "invitations": 1490,
+  "crs_cutoff": 535,
+  "tie_break_rule": "February 11, 2024 at 15:26:56 UTC",
+  "distribution_as_of": "February 11, 2024"
+ },
+ {
+  "draw_number": "282",
+  "draw_date": "2024-02-01",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 7000,
+  "crs_cutoff": 365,
+  "tie_break_rule": "September 08, 2023 at 09:47:27 UTC",
+  "distribution_as_of": "January 30, 2024"
+ },
+ {
+  "draw_number": "281",
+  "draw_date": "2024-01-31",
+  "draw_name": "General",
+  "invitations": 730,
+  "crs_cutoff": 541,
+  "tie_break_rule": "July 15, 2023 at 10:52:08 UTC",
+  "distribution_as_of": "January 30, 2024"
+ },
+ {
+  "draw_number": "280",
+  "draw_date": "2024-01-23",
+  "draw_name": "General",
+  "invitations": 1040,
+  "crs_cutoff": 543,
+  "tie_break_rule": "January 21, 2024 at 07:43:47 UTC",
+  "distribution_as_of": "January 22, 2024"
+ },
+ {
+  "draw_number": "279",
+  "draw_date": "2024-01-10",
+  "draw_name": "General",
+  "invitations": 1510,
+  "crs_cutoff": 546,
+  "tie_break_rule": "December 31, 2023 at 18:23:22 UTC",
+  "distribution_as_of": "January 9, 2024"
+ },
+ {
+  "draw_number": "278",
+  "draw_date": "2023-12-21",
+  "draw_name": "Agriculture and agri-food occupations (Version 1)",
+  "invitations": 400,
+  "crs_cutoff": 386,
+  "tie_break_rule": "July 06, 2023 at 05:44:14 UTC",
+  "distribution_as_of": "December 17, 2023"
+ },
+ {
+  "draw_number": "277",
+  "draw_date": "2023-12-20",
+  "draw_name": "Transport occupations (Version 1)",
+  "invitations": 670,
+  "crs_cutoff": 435,
+  "tie_break_rule": "August 30. 2023 at 17:30:21 UTC",
+  "distribution_as_of": "December 17, 2023"
+ },
+ {
+  "draw_number": "276",
+  "draw_date": "2023-12-19",
+  "draw_name": "Trade occupations (Version 1)",
+  "invitations": 1000,
+  "crs_cutoff": 425,
+  "tie_break_rule": "November 04, 2023 at 11:16:58 UTC",
+  "distribution_as_of": "December 17, 2023"
+ },
+ {
+  "draw_number": "275",
+  "draw_date": "2023-12-18",
+  "draw_name": "General",
+  "invitations": 1325,
+  "crs_cutoff": 542,
+  "tie_break_rule": "November 06, 2023 at 14:40:23 UTC",
+  "distribution_as_of": "December 17, 2023"
+ },
+ {
+  "draw_number": "274",
+  "draw_date": "2023-12-08",
+  "draw_name": "STEM occupations (Version 1)",
+  "invitations": 5900,
+  "crs_cutoff": 481,
+  "tie_break_rule": "September 07, 2023 at 09:24:49 UTC",
+  "distribution_as_of": "December 5, 2023"
+ },
+ {
+  "draw_number": "273",
+  "draw_date": "2023-12-07",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 1000,
+  "crs_cutoff": 470,
+  "tie_break_rule": "October 03, 2023 at 04:45:27 UTC",
+  "distribution_as_of": "December 5, 2023"
+ },
+ {
+  "draw_number": "272",
+  "draw_date": "2023-12-06",
+  "draw_name": "General",
+  "invitations": 4750,
+  "crs_cutoff": 561,
+  "tie_break_rule": "November 08, 2023 at 06:00:13 UTC",
+  "distribution_as_of": "December 5, 2023"
+ },
+ {
+  "draw_number": "271",
+  "draw_date": "2023-10-26",
+  "draw_name": "Healthcare occupations (Version 1)",
+  "invitations": 3600,
+  "crs_cutoff": 431,
+  "tie_break_rule": "May 24, 2023 at 19:47:51 UTC",
+  "distribution_as_of": "October 23, 2023"
+ },
+ {
+  "draw_number": "270",
+  "draw_date": "2023-10-25",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 300,
+  "crs_cutoff": 486,
+  "tie_break_rule": "September 30, 2023 at 04:22:17 AM UTC",
+  "distribution_as_of": "October 23, 2023"
+ },
+ {
+  "draw_number": "269",
+  "draw_date": "2023-10-24",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1548,
+  "crs_cutoff": 776,
+  "tie_break_rule": "July 07, 2023 at 07:28:57 UTC",
+  "distribution_as_of": "October 23, 2023"
+ },
+ {
+  "draw_number": "268",
+  "draw_date": "2023-10-10",
+  "draw_name": "No Program Specified",
+  "invitations": 3725,
+  "crs_cutoff": 500,
+  "tie_break_rule": "October 02, 2023 at 15:25:30 UTC",
+  "distribution_as_of": "October 10, 2023"
+ },
+ {
+  "draw_number": "267",
+  "draw_date": "2023-09-28",
+  "draw_name": "Agriculture and agri-food occupations (Version 1)",
+  "invitations": 600,
+  "crs_cutoff": 354,
+  "tie_break_rule": "June 12, 2023 at 10:23:21 UTC",
+  "distribution_as_of": "September 26, 2023"
+ },
+ {
+  "draw_number": "266",
+  "draw_date": "2023-09-27",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 500,
+  "crs_cutoff": 472,
+  "tie_break_rule": "August 16, 2023 at 09:00:14 UTC",
+  "distribution_as_of": "September 26, 2023"
+ },
+ {
+  "draw_number": "265",
+  "draw_date": "2023-09-26",
+  "draw_name": "No Program Specified",
+  "invitations": 3000,
+  "crs_cutoff": 504,
+  "tie_break_rule": "September 11, 2023 at 20:24:18 UTC",
+  "distribution_as_of": "September 26, 2023"
+ },
+ {
+  "draw_number": "264",
+  "draw_date": "2023-09-20",
+  "draw_name": "Transport occupations (Version 1)",
+  "invitations": 1000,
+  "crs_cutoff": 435,
+  "tie_break_rule": "June 17, 2023 at 06:44:01 UTC",
+  "distribution_as_of": "September 19, 2023"
+ },
+ {
+  "draw_number": "263",
+  "draw_date": "2023-09-19",
+  "draw_name": "No Program Specified",
+  "invitations": 3200,
+  "crs_cutoff": 531,
+  "tie_break_rule": "September 12, 2023 at 12:16:31 UTC",
+  "distribution_as_of": "September 19, 2023"
+ },
+ {
+  "draw_number": "262",
+  "draw_date": "2023-08-15",
+  "draw_name": "No Program Specified",
+  "invitations": 4300,
+  "crs_cutoff": 496,
+  "tie_break_rule": "July 04, 2023 at 19:36:18 UTC",
+  "distribution_as_of": "August 15, 2023"
+ },
+ {
+  "draw_number": "261",
+  "draw_date": "2023-08-03",
+  "draw_name": "Trade occupations (Version 1)",
+  "invitations": 1500,
+  "crs_cutoff": 388,
+  "tie_break_rule": "June 07, 2023 at 07:03:08 UTC",
+  "distribution_as_of": "August 1, 2023"
+ },
+ {
+  "draw_number": "260",
+  "draw_date": "2023-08-02",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 800,
+  "crs_cutoff": 435,
+  "tie_break_rule": "July 31, 2023 at 09:57:30 UTC",
+  "distribution_as_of": "August 1, 2023"
+ },
+ {
+  "draw_number": "259",
+  "draw_date": "2023-08-01",
+  "draw_name": "No Program Specified",
+  "invitations": 2000,
+  "crs_cutoff": 517,
+  "tie_break_rule": "June 30, 2023 at 11:45:05 UTC",
+  "distribution_as_of": "August 1, 2023"
+ },
+ {
+  "draw_number": "258",
+  "draw_date": "2023-07-12",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 3800,
+  "crs_cutoff": 375,
+  "tie_break_rule": "June 15, 2023 at 23:49:05",
+  "distribution_as_of": "July 11, 2023"
+ },
+ {
+  "draw_number": "257",
+  "draw_date": "2023-07-11",
+  "draw_name": "No Program Specified",
+  "invitations": 800,
+  "crs_cutoff": 505,
+  "tie_break_rule": "October 01, 2022 at 06:13:05 UTC",
+  "distribution_as_of": "July 11, 2023"
+ },
+ {
+  "draw_number": "256",
+  "draw_date": "2023-07-07",
+  "draw_name": "French language proficiency (Version 1)",
+  "invitations": 2300,
+  "crs_cutoff": 439,
+  "tie_break_rule": "January 20, 2023 at 17:18:32 UTC",
+  "distribution_as_of": "July 4, 2023"
+ },
+ {
+  "draw_number": "255",
+  "draw_date": "2023-07-06",
+  "draw_name": "Healthcare occupations (Version 1)",
+  "invitations": 1500,
+  "crs_cutoff": 463,
+  "tie_break_rule": "June 19, 2023 06:41:05 UTC",
+  "distribution_as_of": "July 4, 2023"
+ },
+ {
+  "draw_number": "254",
+  "draw_date": "2023-07-05",
+  "draw_name": "STEM occupations (Version 1)",
+  "invitations": 500,
+  "crs_cutoff": 486,
+  "tie_break_rule": "November 23, 2022 00:01:29 UTC",
+  "distribution_as_of": "July 4, 2023"
+ },
+ {
+  "draw_number": "253",
+  "draw_date": "2023-07-04",
+  "draw_name": "No Program Specified",
+  "invitations": 700,
+  "crs_cutoff": 511,
+  "tie_break_rule": "July 01, 2023 09:31:32 UTC",
+  "distribution_as_of": "July 4, 2023"
+ },
+ {
+  "draw_number": "252",
+  "draw_date": "2023-06-28",
+  "draw_name": "Healthcare occupations (Version 1)",
+  "invitations": 500,
+  "crs_cutoff": 476,
+  "tie_break_rule": "November 12, 2022 12:47:27 UTC",
+  "distribution_as_of": "June 28, 2023"
+ },
+ {
+  "draw_number": "251",
+  "draw_date": "2023-06-27",
+  "draw_name": "No Program Specified",
+  "invitations": 4300,
+  "crs_cutoff": 486,
+  "tie_break_rule": "June 21, 2023 00:57:04 UTC",
+  "distribution_as_of": "June 27, 2023"
+ },
+ {
+  "draw_number": "250",
+  "draw_date": "2023-06-08",
+  "draw_name": "No Program Specified",
+  "invitations": 4800,
+  "crs_cutoff": 486,
+  "tie_break_rule": "May 19, 2023 14:04:00 UTC",
+  "distribution_as_of": "June 8, 2023"
+ },
+ {
+  "draw_number": "249",
+  "draw_date": "2023-05-24",
+  "draw_name": "No Program Specified",
+  "invitations": 4800,
+  "crs_cutoff": 488,
+  "tie_break_rule": "December 26, 2022 01:12:48 UTC",
+  "distribution_as_of": "May 24, 2023"
+ },
+ {
+  "draw_number": "248",
+  "draw_date": "2023-05-10",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 589,
+  "crs_cutoff": 691,
+  "tie_break_rule": "March 08, 2023 at 16:42:17 UTC",
+  "distribution_as_of": "May 10, 2023"
+ },
+ {
+  "draw_number": "247",
+  "draw_date": "2023-04-26",
+  "draw_name": "No Program Specified",
+  "invitations": 3500,
+  "crs_cutoff": 483,
+  "tie_break_rule": "April 22, 2023 19:46:58 UTC",
+  "distribution_as_of": "April 26, 2023"
+ },
+ {
+  "draw_number": "246",
+  "draw_date": "2023-04-12",
+  "draw_name": "No Program Specified",
+  "invitations": 3500,
+  "crs_cutoff": 486,
+  "tie_break_rule": "July 19, 2022 11:05:24 UTC",
+  "distribution_as_of": "April 12, 2023"
+ },
+ {
+  "draw_number": "245",
+  "draw_date": "2023-03-29",
+  "draw_name": "No Program Specified",
+  "invitations": 7000,
+  "crs_cutoff": 481,
+  "tie_break_rule": "February 14, 2023 07:35:00 UTC",
+  "distribution_as_of": "March 29, 2023"
+ },
+ {
+  "draw_number": "244",
+  "draw_date": "2023-03-23",
+  "draw_name": "No Program Specified",
+  "invitations": 7000,
+  "crs_cutoff": 484,
+  "tie_break_rule": "May 19,2022 06:48:41 UTC",
+  "distribution_as_of": "March 22, 2023"
+ },
+ {
+  "draw_number": "243",
+  "draw_date": "2023-03-15",
+  "draw_name": "No Program Specified",
+  "invitations": 7000,
+  "crs_cutoff": 490,
+  "tie_break_rule": "February 16, 2023 10:33:06 UTC",
+  "distribution_as_of": "March 15, 2023"
+ },
+ {
+  "draw_number": "242",
+  "draw_date": "2023-03-01",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 667,
+  "crs_cutoff": 748,
+  "tie_break_rule": "December 12, 2022, at 10:48:12 UTC",
+  "distribution_as_of": "March 1, 2023"
+ },
+ {
+  "draw_number": "241",
+  "draw_date": "2023-02-15",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 699,
+  "crs_cutoff": 791,
+  "tie_break_rule": "February 08, 2023, at 18:09:01 UTC",
+  "distribution_as_of": "February 15, 2023"
+ },
+ {
+  "draw_number": "240",
+  "draw_date": "2023-02-02",
+  "draw_name": "Federal Skilled Worker",
+  "invitations": 3300,
+  "crs_cutoff": 489,
+  "tie_break_rule": "March 29, 2022, at 16:09:00 UTC",
+  "distribution_as_of": "February 1, 2023"
+ },
+ {
+  "draw_number": "239",
+  "draw_date": "2023-02-01",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 893,
+  "crs_cutoff": 733,
+  "tie_break_rule": "December 09, 2022, at 10:49:57 UTC",
+  "distribution_as_of": "February 1, 2023"
+ },
+ {
+  "draw_number": "238",
+  "draw_date": "2023-01-18",
+  "draw_name": "No Program Specified",
+  "invitations": 5500,
+  "crs_cutoff": 490,
+  "tie_break_rule": "November 24, 2022 21:14:59 UTC",
+  "distribution_as_of": "January 18, 2023"
+ },
+ {
+  "draw_number": "237",
+  "draw_date": "2023-01-11",
+  "draw_name": "No Program Specified",
+  "invitations": 5500,
+  "crs_cutoff": 507,
+  "tie_break_rule": "December 06, 2022 11:00:07 UTC",
+  "distribution_as_of": "January 11, 2023"
+ },
+ {
+  "draw_number": "236",
+  "draw_date": "2022-11-23",
+  "draw_name": "No Program Specified",
+  "invitations": 4750,
+  "crs_cutoff": 491,
+  "tie_break_rule": "October 13, 2022 11:22:17 UTC",
+  "distribution_as_of": "November 22, 2022"
+ },
+ {
+  "draw_number": "235",
+  "draw_date": "2022-11-09",
+  "draw_name": "No Program Specified",
+  "invitations": 4750,
+  "crs_cutoff": 494,
+  "tie_break_rule": "June 06, 2022 20:48:23 UTC",
+  "distribution_as_of": "November 7, 2022"
+ },
+ {
+  "draw_number": "234",
+  "draw_date": "2022-10-26",
+  "draw_name": "No Program Specified",
+  "invitations": 4750,
+  "crs_cutoff": 496,
+  "tie_break_rule": "May 09, 2022 09:04:20 UTC",
+  "distribution_as_of": "October 24, 2022"
+ },
+ {
+  "draw_number": "233",
+  "draw_date": "2022-10-12",
+  "draw_name": "No Program Specified",
+  "invitations": 4250,
+  "crs_cutoff": 500,
+  "tie_break_rule": "October 10, 2022 17:10:53 UTC",
+  "distribution_as_of": "October 10, 2022"
+ },
+ {
+  "draw_number": "232",
+  "draw_date": "2022-09-28",
+  "draw_name": "No Program Specified",
+  "invitations": 3750,
+  "crs_cutoff": 504,
+  "tie_break_rule": "May 02, 2022 at 17:17:32 UTC",
+  "distribution_as_of": "September 26, 2022"
+ },
+ {
+  "draw_number": "231",
+  "draw_date": "2022-09-14",
+  "draw_name": "No Program Specified",
+  "invitations": 3250,
+  "crs_cutoff": 510,
+  "tie_break_rule": "January 08, 2022 at 10:24:52 UTC",
+  "distribution_as_of": "September 12, 2022"
+ },
+ {
+  "draw_number": "230",
+  "draw_date": "2022-08-31",
+  "draw_name": "No Program Specified",
+  "invitations": 2750,
+  "crs_cutoff": 516,
+  "tie_break_rule": "April 16, 2022 at 18:24:41 UTC",
+  "distribution_as_of": "August 29, 2022"
+ },
+ {
+  "draw_number": "229",
+  "draw_date": "2022-08-17",
+  "draw_name": "No Program Specified",
+  "invitations": 2250,
+  "crs_cutoff": 525,
+  "tie_break_rule": "December 28, 2021 at 11:03:15 UTC",
+  "distribution_as_of": "August 15, 2022"
+ },
+ {
+  "draw_number": "228",
+  "draw_date": "2022-08-03",
+  "draw_name": "No Program Specified",
+  "invitations": 2000,
+  "crs_cutoff": 533,
+  "tie_break_rule": "January 06, 2022 at 14:29:50 UTC",
+  "distribution_as_of": "August 2, 2022"
+ },
+ {
+  "draw_number": "227",
+  "draw_date": "2022-07-20",
+  "draw_name": "No Program Specified",
+  "invitations": 1750,
+  "crs_cutoff": 542,
+  "tie_break_rule": "December 30, 2021 at 15:29:35 UTC",
+  "distribution_as_of": "July 18, 2022"
+ },
+ {
+  "draw_number": "226",
+  "draw_date": "2022-07-06",
+  "draw_name": "No Program Specified",
+  "invitations": 1500,
+  "crs_cutoff": 557,
+  "tie_break_rule": "November 13, 2021 at 02:20:46 UTC",
+  "distribution_as_of": "July 11, 2022"
+ },
+ {
+  "draw_number": "225",
+  "draw_date": "2022-06-22",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 636,
+  "crs_cutoff": 752,
+  "tie_break_rule": "April 19, 2022 at 13:45:45 UTC",
+  "distribution_as_of": "June 20, 2022"
+ },
+ {
+  "draw_number": "224",
+  "draw_date": "2022-06-08",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 932,
+  "crs_cutoff": 796,
+  "tie_break_rule": "October 18, 2021 at 17:13:17 UTC",
+  "distribution_as_of": "June 6, 2022"
+ },
+ {
+  "draw_number": "223",
+  "draw_date": "2022-05-25",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 590,
+  "crs_cutoff": 741,
+  "tie_break_rule": "February 02, 2022 at 12:29:53 UTC",
+  "distribution_as_of": "May 23, 2022"
+ },
+ {
+  "draw_number": "222",
+  "draw_date": "2022-05-11",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 545,
+  "crs_cutoff": 753,
+  "tie_break_rule": "December 15, 2021 at 20:32:57 UTC",
+  "distribution_as_of": "May 9, 2022"
+ },
+ {
+  "draw_number": "221",
+  "draw_date": "2022-04-27",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 829,
+  "crs_cutoff": 772,
+  "tie_break_rule": "March 24, 2022 at 8:00:50 UTC",
+  "distribution_as_of": "April 27, 2022"
+ },
+ {
+  "draw_number": "220",
+  "draw_date": "2022-04-13",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 787,
+  "crs_cutoff": 782,
+  "tie_break_rule": "April 07, 2022 at 16:31:21 UTC",
+  "distribution_as_of": "April 11, 2022"
+ },
+ {
+  "draw_number": "219",
+  "draw_date": "2022-03-30",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 919,
+  "crs_cutoff": 785,
+  "tie_break_rule": "November 15, 2021 at 20:23:16 UTC",
+  "distribution_as_of": "March 28, 2022"
+ },
+ {
+  "draw_number": "218",
+  "draw_date": "2022-03-16",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 924,
+  "crs_cutoff": 754,
+  "tie_break_rule": "February 10, 2022 at 14:35:27 UTC",
+  "distribution_as_of": "March 14, 2022"
+ },
+ {
+  "draw_number": "217",
+  "draw_date": "2022-03-02",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1047,
+  "crs_cutoff": 761,
+  "tie_break_rule": "January 05, 2022 at 14:22:03 UTC",
+  "distribution_as_of": "February 28, 2022"
+ },
+ {
+  "draw_number": "216",
+  "draw_date": "2022-02-16",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1082,
+  "crs_cutoff": 710,
+  "tie_break_rule": "October 07, 2021 at 11:36:55 UTC",
+  "distribution_as_of": "February 15, 2022"
+ },
+ {
+  "draw_number": "215",
+  "draw_date": "2022-02-02",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1070,
+  "crs_cutoff": 674,
+  "tie_break_rule": "February 18 2021 at 05:05:15 UTC",
+  "distribution_as_of": "January 31, 2022"
+ },
+ {
+  "draw_number": "214",
+  "draw_date": "2022-01-19",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1036,
+  "crs_cutoff": 745,
+  "tie_break_rule": "July 05, 2021 at 13:12:05 UTC",
+  "distribution_as_of": "January 17, 2022"
+ },
+ {
+  "draw_number": "213",
+  "draw_date": "2022-01-05",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 392,
+  "crs_cutoff": 808,
+  "tie_break_rule": "March 04, 2021 at 16:57:50 UTC",
+  "distribution_as_of": "January 5, 2022"
+ },
+ {
+  "draw_number": "212",
+  "draw_date": "2021-12-22",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 746,
+  "crs_cutoff": 720,
+  "tie_break_rule": "November 24, 2021 at 16:56:42 UTC",
+  "distribution_as_of": "December 22, 2021"
+ },
+ {
+  "draw_number": "211",
+  "draw_date": "2021-12-10",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1032,
+  "crs_cutoff": 698,
+  "tie_break_rule": "September 10, 2021 at 16:43:17 UTC",
+  "distribution_as_of": "December 10, 2021"
+ },
+ {
+  "draw_number": "210",
+  "draw_date": "2021-11-24",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 613,
+  "crs_cutoff": 737,
+  "tie_break_rule": "June 22, 2021 at 20:19:59 PM UTC",
+  "distribution_as_of": "November 24, 2021"
+ },
+ {
+  "draw_number": "209",
+  "draw_date": "2021-11-10",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 775,
+  "crs_cutoff": 685,
+  "tie_break_rule": "August 12, 2021 at 20:05:46 UTC",
+  "distribution_as_of": "November 10, 2021"
+ },
+ {
+  "draw_number": "208",
+  "draw_date": "2021-10-27",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 681,
+  "crs_cutoff": 744,
+  "tie_break_rule": "October 7 at 16:38:21 UTC",
+  "distribution_as_of": "October 27, 2021"
+ },
+ {
+  "draw_number": "207",
+  "draw_date": "2021-10-13",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 681,
+  "crs_cutoff": 720,
+  "tie_break_rule": "March 16, 2021 at 07:53:28 UTC",
+  "distribution_as_of": "October 13, 2021"
+ },
+ {
+  "draw_number": "206",
+  "draw_date": "2021-09-29",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 761,
+  "crs_cutoff": 742,
+  "tie_break_rule": "July 29, 2021 at 09:45:29 UTC",
+  "distribution_as_of": "September 29, 2021"
+ },
+ {
+  "draw_number": "205",
+  "draw_date": "2021-09-15",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 521,
+  "crs_cutoff": 732,
+  "tie_break_rule": "February 24, 2021 at 10:46:54 UTC",
+  "distribution_as_of": "September 15, 2021"
+ },
+ {
+  "draw_number": "204",
+  "draw_date": "2021-09-14",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 2000,
+  "crs_cutoff": 462,
+  "tie_break_rule": "September 11, 2021 at 10:55:43 UTC",
+  "distribution_as_of": "September 14, 2021"
+ },
+ {
+  "draw_number": "203",
+  "draw_date": "2021-09-01",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 635,
+  "crs_cutoff": 764,
+  "tie_break_rule": "April 12, 2021 at 12:21:45 UTC",
+  "distribution_as_of": "September 1, 2021"
+ },
+ {
+  "draw_number": "202",
+  "draw_date": "2021-08-19",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3000,
+  "crs_cutoff": 403,
+  "tie_break_rule": "August 01, 2021 at 10:13:57 UTC",
+  "distribution_as_of": "August 19, 2021"
+ },
+ {
+  "draw_number": "201",
+  "draw_date": "2021-08-18",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 463,
+  "crs_cutoff": 751,
+  "tie_break_rule": "April 13, 2021 at 16:29:29 UTC",
+  "distribution_as_of": "August 18, 2021"
+ },
+ {
+  "draw_number": "200",
+  "draw_date": "2021-08-05",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3000,
+  "crs_cutoff": 404,
+  "tie_break_rule": "August 3, 2021 at 05:39:26 UTC",
+  "distribution_as_of": "August 5, 2021"
+ },
+ {
+  "draw_number": "199",
+  "draw_date": "2021-08-04",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 512,
+  "crs_cutoff": 760,
+  "tie_break_rule": "March 5, 2021 at 22:38:31 UTC",
+  "distribution_as_of": "August 4, 2021"
+ },
+ {
+  "draw_number": "198",
+  "draw_date": "2021-07-22",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 4500,
+  "crs_cutoff": 357,
+  "tie_break_rule": "February 14, 2021 at 09:04:15 UTC",
+  "distribution_as_of": "July 22, 2021"
+ },
+ {
+  "draw_number": "197",
+  "draw_date": "2021-07-21",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 462,
+  "crs_cutoff": 734,
+  "tie_break_rule": "April 11, 2021 at 10:56:32 UTC",
+  "distribution_as_of": "July 21, 2021"
+ },
+ {
+  "draw_number": "196",
+  "draw_date": "2021-07-08",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 4500,
+  "crs_cutoff": 369,
+  "tie_break_rule": "June 10, 2021 at 22:46:37 UTC",
+  "distribution_as_of": "July 8, 2021"
+ },
+ {
+  "draw_number": "195",
+  "draw_date": "2021-07-07",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 627,
+  "crs_cutoff": 760,
+  "tie_break_rule": "June 14, 2021 at 07:44:05 UTC",
+  "distribution_as_of": "July 7, 2021"
+ },
+ {
+  "draw_number": "194",
+  "draw_date": "2021-06-24",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 6000,
+  "crs_cutoff": 357,
+  "tie_break_rule": "February 17, 2021 at 10:15:50 UTC",
+  "distribution_as_of": "June 24, 2021"
+ },
+ {
+  "draw_number": "193",
+  "draw_date": "2021-06-23",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 1002,
+  "crs_cutoff": 742,
+  "tie_break_rule": "February 18, 2021 at 04:04:56 UTC",
+  "distribution_as_of": "June 23, 2021"
+ },
+ {
+  "draw_number": "192",
+  "draw_date": "2021-06-10",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 6000,
+  "crs_cutoff": 368,
+  "tie_break_rule": "April 28, 2021 at 05:45:14 UTC",
+  "distribution_as_of": "June 10, 2021"
+ },
+ {
+  "draw_number": "191",
+  "draw_date": "2021-06-09",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 940,
+  "crs_cutoff": 711,
+  "tie_break_rule": "February 16, 2021 at 09:06:30 UTC",
+  "distribution_as_of": "June 9, 2021"
+ },
+ {
+  "draw_number": "190",
+  "draw_date": "2021-05-31",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 5956,
+  "crs_cutoff": 380,
+  "tie_break_rule": "May 28, 2021 at 14:45:22 UTC",
+  "distribution_as_of": "May 31, 2021"
+ },
+ {
+  "draw_number": "189",
+  "draw_date": "2021-05-26",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 500,
+  "crs_cutoff": 713,
+  "tie_break_rule": "April 06, 2021 at 09:50:14 UTC",
+  "distribution_as_of": "May 26, 2021"
+ },
+ {
+  "draw_number": "188",
+  "draw_date": "2021-05-20",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 1842,
+  "crs_cutoff": 397,
+  "tie_break_rule": "April 24, 2021 at 12:09:24 UTC",
+  "distribution_as_of": "May 20, 2021"
+ },
+ {
+  "draw_number": "187",
+  "draw_date": "2021-05-13",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 4147,
+  "crs_cutoff": 401,
+  "tie_break_rule": "April 29, 2021 at 11:48:14 UTC",
+  "distribution_as_of": "May 13, 2021"
+ },
+ {
+  "draw_number": "186",
+  "draw_date": "2021-05-12",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 557,
+  "crs_cutoff": 752,
+  "tie_break_rule": "April 29, 2021 at 10:18:12 UTC",
+  "distribution_as_of": "May 12, 2021"
+ },
+ {
+  "draw_number": "185",
+  "draw_date": "2021-04-29",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 6000,
+  "crs_cutoff": 400,
+  "tie_break_rule": "April 24, 2021 at 15:24:49 UTC",
+  "distribution_as_of": "April 29, 2021"
+ },
+ {
+  "draw_number": "184",
+  "draw_date": "2021-04-28",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 381,
+  "crs_cutoff": 717,
+  "tie_break_rule": "March 16, 2021 at 21:20:50 UTC",
+  "distribution_as_of": "April 28, 2021"
+ },
+ {
+  "draw_number": "183",
+  "draw_date": "2021-04-16",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 6000,
+  "crs_cutoff": 417,
+  "tie_break_rule": "March 01, 2021 at 19:53:46 UTC",
+  "distribution_as_of": "April 16, 2021"
+ },
+ {
+  "draw_number": "182",
+  "draw_date": "2021-04-14",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 266,
+  "crs_cutoff": 753,
+  "tie_break_rule": "March 01, 2021 at 15:22:18 UTC",
+  "distribution_as_of": "April 14, 2021"
+ },
+ {
+  "draw_number": "181",
+  "draw_date": "2021-04-01",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 5000,
+  "crs_cutoff": 432,
+  "tie_break_rule": "February 16, 2021 at 09:51:22 UTC",
+  "distribution_as_of": "April 1, 2021"
+ },
+ {
+  "draw_number": "180",
+  "draw_date": "2021-03-31",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 284,
+  "crs_cutoff": 778,
+  "tie_break_rule": "March 16, 2021 at 16:09:32 UTC",
+  "distribution_as_of": "March 31, 2021"
+ },
+ {
+  "draw_number": "179",
+  "draw_date": "2021-03-18",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 5000,
+  "crs_cutoff": 449,
+  "tie_break_rule": "February 19, 2021 at 15:59:57 UTC",
+  "distribution_as_of": "March 18, 2021"
+ },
+ {
+  "draw_number": "178",
+  "draw_date": "2021-03-17",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 183,
+  "crs_cutoff": 682,
+  "tie_break_rule": "March 04, 2021 at 16:56:20 UTC",
+  "distribution_as_of": "March 17, 2021"
+ },
+ {
+  "draw_number": "177",
+  "draw_date": "2021-03-08",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 671,
+  "crs_cutoff": 739,
+  "tie_break_rule": "February 16, 2021 at 19:10:25 UTC",
+  "distribution_as_of": "March 8, 2021"
+ },
+ {
+  "draw_number": "176",
+  "draw_date": "2021-02-13",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 27332,
+  "crs_cutoff": 75,
+  "tie_break_rule": "September 12, 2020 at 15:31:40 UTC",
+  "distribution_as_of": "February 13, 2021"
+ },
+ {
+  "draw_number": "175",
+  "draw_date": "2021-02-10",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 654,
+  "crs_cutoff": 720,
+  "tie_break_rule": "August 14, 2020 at 06:51:00 UTC",
+  "distribution_as_of": "February 10, 2021"
+ },
+ {
+  "draw_number": "174",
+  "draw_date": "2021-01-21",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 4626,
+  "crs_cutoff": 454,
+  "tie_break_rule": "July 23, 2020 at 17:32:00 UTC",
+  "distribution_as_of": "January 21, 2021"
+ },
+ {
+  "draw_number": "173",
+  "draw_date": "2021-01-20",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 374,
+  "crs_cutoff": 741,
+  "tie_break_rule": "September 5, 2020 at 19:39:04 UTC",
+  "distribution_as_of": "January 20, 2021"
+ },
+ {
+  "draw_number": "172",
+  "draw_date": "2021-01-07",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 4750,
+  "crs_cutoff": 461,
+  "tie_break_rule": "September 12, 2020 at 20:46:32 UTC",
+  "distribution_as_of": "January 7, 2021"
+ },
+ {
+  "draw_number": "171",
+  "draw_date": "2021-01-06",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 250,
+  "crs_cutoff": 813,
+  "tie_break_rule": "November 2, 2020 at 11:11:52 UTC",
+  "distribution_as_of": "January 6, 2021"
+ },
+ {
+  "draw_number": "170",
+  "draw_date": "2020-12-23",
+  "draw_name": "No Program Specified",
+  "invitations": 5000,
+  "crs_cutoff": 468,
+  "tie_break_rule": "June 4, 2020 at 13:39:44 UTC",
+  "distribution_as_of": "December 23, 2020"
+ },
+ {
+  "draw_number": "169",
+  "draw_date": "2020-12-09",
+  "draw_name": "No Program Specified",
+  "invitations": 5000,
+  "crs_cutoff": 469,
+  "tie_break_rule": "June 4, 2020 at 22:26:05 UTC",
+  "distribution_as_of": "December 9, 2020"
+ },
+ {
+  "draw_number": "168",
+  "draw_date": "2020-11-25",
+  "draw_name": "No Program Specified",
+  "invitations": 5000,
+  "crs_cutoff": 469,
+  "tie_break_rule": "October 15, 2020 at 08:50:10 UTC",
+  "distribution_as_of": "November 25, 2020"
+ },
+ {
+  "draw_number": "167",
+  "draw_date": "2020-11-18",
+  "draw_name": "No Program Specified",
+  "invitations": 5000,
+  "crs_cutoff": 472,
+  "tie_break_rule": "October 27, 2020 at 06:18:11 UTC",
+  "distribution_as_of": "November 18, 2020"
+ },
+ {
+  "draw_number": "166",
+  "draw_date": "2020-11-05",
+  "draw_name": "No Program Specified",
+  "invitations": 4500,
+  "crs_cutoff": 478,
+  "tie_break_rule": "October 26, 2020 at 22:44:19 UTC",
+  "distribution_as_of": "November 5, 2020"
+ },
+ {
+  "draw_number": "165",
+  "draw_date": "2020-10-14",
+  "draw_name": "No Program Specified",
+  "invitations": 4500,
+  "crs_cutoff": 471,
+  "tie_break_rule": "September 1, 2020 at 12:11:23 UTC",
+  "distribution_as_of": "October 14, 2020"
+ },
+ {
+  "draw_number": "164",
+  "draw_date": "2020-09-30",
+  "draw_name": "No Program Specified",
+  "invitations": 4200,
+  "crs_cutoff": 471,
+  "tie_break_rule": "March 2, 2020 at 12:47:08 UTC",
+  "distribution_as_of": "September 30, 2020"
+ },
+ {
+  "draw_number": "163",
+  "draw_date": "2020-09-16",
+  "draw_name": "No Program Specified",
+  "invitations": 4200,
+  "crs_cutoff": 472,
+  "tie_break_rule": "March 09, 2020 at 13:03:40 UTC",
+  "distribution_as_of": "September 16, 2020"
+ },
+ {
+  "draw_number": "162",
+  "draw_date": "2020-09-02",
+  "draw_name": "No Program Specified",
+  "invitations": 4200,
+  "crs_cutoff": 475,
+  "tie_break_rule": "August 16, 2020 at 01:22:18 UTC",
+  "distribution_as_of": "September 2, 2020"
+ },
+ {
+  "draw_number": "161",
+  "draw_date": "2020-08-20",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3300,
+  "crs_cutoff": 454,
+  "tie_break_rule": "July 27, 2020 at 17:05:11 UTC",
+  "distribution_as_of": "August 20, 2020"
+ },
+ {
+  "draw_number": "160",
+  "draw_date": "2020-08-19",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 600,
+  "crs_cutoff": 771,
+  "tie_break_rule": "July 24, 2020 at 11:39:23 UTC",
+  "distribution_as_of": "August 19, 2020"
+ },
+ {
+  "draw_number": "159",
+  "draw_date": "2020-08-06",
+  "draw_name": "Federal Skilled Trades",
+  "invitations": 250,
+  "crs_cutoff": 415,
+  "tie_break_rule": "June 2, 2020 at 09:35:31 UTC",
+  "distribution_as_of": "August 6, 2020"
+ },
+ {
+  "draw_number": "158",
+  "draw_date": "2020-08-05",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 476,
+  "tie_break_rule": "July 27, 2020 at 01:02:47 UTC",
+  "distribution_as_of": "August 5, 2020"
+ },
+ {
+  "draw_number": "157",
+  "draw_date": "2020-07-23",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3343,
+  "crs_cutoff": 445,
+  "tie_break_rule": "July 12, 2020 at 15:16:55 UTC",
+  "distribution_as_of": "July 23, 2020"
+ },
+ {
+  "draw_number": "156",
+  "draw_date": "2020-07-22",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 557,
+  "crs_cutoff": 687,
+  "tie_break_rule": "November 11, 2019 at 08:51:21 UTC",
+  "distribution_as_of": "July 22, 2020"
+ },
+ {
+  "draw_number": "155",
+  "draw_date": "2020-07-08",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 478,
+  "tie_break_rule": "February 11, 2020 at 03:17:13 UTC",
+  "distribution_as_of": "July 8, 2020"
+ },
+ {
+  "draw_number": "154",
+  "draw_date": "2020-06-25",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3508,
+  "crs_cutoff": 431,
+  "tie_break_rule": "April 3, 2020 at 12:56:32 UTC",
+  "distribution_as_of": "June 25, 2020"
+ },
+ {
+  "draw_number": "153",
+  "draw_date": "2020-06-24",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 392,
+  "crs_cutoff": 696,
+  "tie_break_rule": "April 23, 2020 at 10:39:30 UTC",
+  "distribution_as_of": "June 24, 2020"
+ },
+ {
+  "draw_number": "152",
+  "draw_date": "2020-06-11",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3559,
+  "crs_cutoff": 437,
+  "tie_break_rule": "May 25, 2020 at 00:31:43 UTC",
+  "distribution_as_of": "June 11, 2020"
+ },
+ {
+  "draw_number": "151",
+  "draw_date": "2020-06-10",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 341,
+  "crs_cutoff": 743,
+  "tie_break_rule": "April 14, 2020 at 13:25:51 UTC",
+  "distribution_as_of": "June 10, 2020"
+ },
+ {
+  "draw_number": "150",
+  "draw_date": "2020-05-28",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3515,
+  "crs_cutoff": 440,
+  "tie_break_rule": "March 7, 2020 at 10:36:59 UTC",
+  "distribution_as_of": "May 28, 2020"
+ },
+ {
+  "draw_number": "149",
+  "draw_date": "2020-05-27",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 385,
+  "crs_cutoff": 757,
+  "tie_break_rule": "April 27, 2020 at 10:19:01 UTC",
+  "distribution_as_of": "May 27, 2020"
+ },
+ {
+  "draw_number": "148",
+  "draw_date": "2020-05-14",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3371,
+  "crs_cutoff": 447,
+  "tie_break_rule": "December 23, 2019 at 10:01:06 UTC",
+  "distribution_as_of": "May 14, 2020"
+ },
+ {
+  "draw_number": "147",
+  "draw_date": "2020-05-13",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 529,
+  "crs_cutoff": 718,
+  "tie_break_rule": "March 19, 2020 at 12:53:21 UTC",
+  "distribution_as_of": "May 13, 2020"
+ },
+ {
+  "draw_number": "146",
+  "draw_date": "2020-04-30",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3311,
+  "crs_cutoff": 452,
+  "tie_break_rule": "October 10, 2019 at 19:15:28 UTC",
+  "distribution_as_of": "April 30, 2020"
+ },
+ {
+  "draw_number": "145",
+  "draw_date": "2020-04-29",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 589,
+  "crs_cutoff": 692,
+  "tie_break_rule": "March 11, 2020 at 13:46:21 UTC",
+  "distribution_as_of": "April 29, 2020"
+ },
+ {
+  "draw_number": "144",
+  "draw_date": "2020-04-16",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3782,
+  "crs_cutoff": 455,
+  "tie_break_rule": "January 20, 2020 at 17:37:33 UTC",
+  "distribution_as_of": "April 16, 2020"
+ },
+ {
+  "draw_number": "143",
+  "draw_date": "2020-04-15",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 118,
+  "crs_cutoff": 808,
+  "tie_break_rule": "March 18, 2020 at 10:30:55 UTC",
+  "distribution_as_of": "April 15, 2020"
+ },
+ {
+  "draw_number": "142",
+  "draw_date": "2020-04-09",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3294,
+  "crs_cutoff": 464,
+  "tie_break_rule": "January 4, 2020 at 12:16:45 UTC",
+  "distribution_as_of": "April 9, 2020"
+ },
+ {
+  "draw_number": "141",
+  "draw_date": "2020-04-09",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 606,
+  "crs_cutoff": 698,
+  "tie_break_rule": "December 18, 2019 at 11:29:51 UTC",
+  "distribution_as_of": "April 9, 2020"
+ },
+ {
+  "draw_number": "140",
+  "draw_date": "2020-03-23",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 3232,
+  "crs_cutoff": 467,
+  "tie_break_rule": "November 25, 2019 at 14:00:35 UTC",
+  "distribution_as_of": "March 23, 2020"
+ },
+ {
+  "draw_number": "139",
+  "draw_date": "2020-03-18",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 668,
+  "crs_cutoff": 720,
+  "tie_break_rule": "March 19, 2020 at 02:04:06 UTC",
+  "distribution_as_of": "March 18, 2020"
+ },
+ {
+  "draw_number": "138",
+  "draw_date": "2020-03-04",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 471,
+  "tie_break_rule": "February 24, 2020 at 06:02:57 UTC",
+  "distribution_as_of": "March 4, 2020"
+ },
+ {
+  "draw_number": "137",
+  "draw_date": "2020-02-19",
+  "draw_name": "No Program Specified",
+  "invitations": 4500,
+  "crs_cutoff": 470,
+  "tie_break_rule": "January 13, 2020 at 10:52:52 UTC",
+  "distribution_as_of": "February 19, 2020"
+ },
+ {
+  "draw_number": "136",
+  "draw_date": "2020-02-05",
+  "draw_name": "No Program Specified",
+  "invitations": 3500,
+  "crs_cutoff": 472,
+  "tie_break_rule": "January 30, 2020 at 07:36:26 UTC",
+  "distribution_as_of": "February 5, 2020"
+ },
+ {
+  "draw_number": "135",
+  "draw_date": "2020-01-22",
+  "draw_name": "No Program Specified",
+  "invitations": 3400,
+  "crs_cutoff": 471,
+  "tie_break_rule": "May 9, 2019 at 01:16:02 UTC",
+  "distribution_as_of": "January 22, 2020"
+ },
+ {
+  "draw_number": "134",
+  "draw_date": "2020-01-08",
+  "draw_name": "No Program Specified",
+  "invitations": 3400,
+  "crs_cutoff": 473,
+  "tie_break_rule": "December 27, 2019 at 13:35:09 UTC",
+  "distribution_as_of": "January 8, 2020"
+ },
+ {
+  "draw_number": "133",
+  "draw_date": "2019-12-19",
+  "draw_name": "No Program Specified",
+  "invitations": 3200,
+  "crs_cutoff": 469,
+  "tie_break_rule": "November 14, 2019 at 08:41:33 UTC",
+  "distribution_as_of": "December 19, 2019"
+ },
+ {
+  "draw_number": "132",
+  "draw_date": "2019-12-11",
+  "draw_name": "No Program Specified",
+  "invitations": 3200,
+  "crs_cutoff": 472,
+  "tie_break_rule": "December 6, 2019 at 03:03:49 UTC",
+  "distribution_as_of": "December 11, 2019"
+ },
+ {
+  "draw_number": "131",
+  "draw_date": "2019-11-27",
+  "draw_name": "No Program Specified",
+  "invitations": 3600,
+  "crs_cutoff": 471,
+  "tie_break_rule": "November 11, 2019 at 6:29:10 UTC",
+  "distribution_as_of": "November 27, 2019"
+ },
+ {
+  "draw_number": "130",
+  "draw_date": "2019-11-13",
+  "draw_name": "No Program Specified",
+  "invitations": 3600,
+  "crs_cutoff": 472,
+  "tie_break_rule": "October 8, 2019 at 10:46:01 UTC",
+  "distribution_as_of": "November 13, 2019"
+ },
+ {
+  "draw_number": "129",
+  "draw_date": "2019-10-30",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 475,
+  "tie_break_rule": "August 29, 2019 at 03:50:24 UTC",
+  "distribution_as_of": "October 30, 2019"
+ },
+ {
+  "draw_number": "128",
+  "draw_date": "2019-10-16",
+  "draw_name": "Federal Skilled Trades",
+  "invitations": 500,
+  "crs_cutoff": 357,
+  "tie_break_rule": "March 4, 2019 at 20:36:42 UTC",
+  "distribution_as_of": "October 16, 2019"
+ },
+ {
+  "draw_number": "127",
+  "draw_date": "2019-10-02",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 464,
+  "tie_break_rule": "September 20, 2019 at 15:05:04 UTC",
+  "distribution_as_of": "October 2, 2019"
+ },
+ {
+  "draw_number": "126",
+  "draw_date": "2019-09-18",
+  "draw_name": "No Program Specified",
+  "invitations": 3600,
+  "crs_cutoff": 462,
+  "tie_break_rule": "August 29, 2019 at 07:57:13 UTC",
+  "distribution_as_of": "September 18, 2019"
+ },
+ {
+  "draw_number": "125",
+  "draw_date": "2019-09-04",
+  "draw_name": "No Program Specified",
+  "invitations": 3600,
+  "crs_cutoff": 463,
+  "tie_break_rule": "August 23, 2019 at 13:33:34 UTC",
+  "distribution_as_of": "September 4, 2019"
+ },
+ {
+  "draw_number": "124",
+  "draw_date": "2019-08-20",
+  "draw_name": "No Program Specified",
+  "invitations": 3600,
+  "crs_cutoff": 457,
+  "tie_break_rule": "March 24, 2019 at 15:32:42 UTC",
+  "distribution_as_of": "August 20, 2019"
+ },
+ {
+  "draw_number": "123",
+  "draw_date": "2019-08-12",
+  "draw_name": "No Program Specified",
+  "invitations": 3600,
+  "crs_cutoff": 466,
+  "tie_break_rule": "August 6, 2019 at 12:14:53 UTC",
+  "distribution_as_of": "August 12, 2019"
+ },
+ {
+  "draw_number": "122",
+  "draw_date": "2019-07-24",
+  "draw_name": "No Program Specified",
+  "invitations": 3600,
+  "crs_cutoff": 459,
+  "tie_break_rule": "May 25, 2019 at 14:40:52 UTC",
+  "distribution_as_of": "July 24, 2019"
+ },
+ {
+  "draw_number": "121",
+  "draw_date": "2019-07-10",
+  "draw_name": "No Program Specified",
+  "invitations": 3600,
+  "crs_cutoff": 460,
+  "tie_break_rule": "June 11, 2019 at 00:27:18 UTC",
+  "distribution_as_of": "July 10, 2019"
+ },
+ {
+  "draw_number": "120",
+  "draw_date": "2019-06-26",
+  "draw_name": "No Program Specified",
+  "invitations": 3350,
+  "crs_cutoff": 462,
+  "tie_break_rule": "May 11, 2019 at 17:40:54 UTC",
+  "distribution_as_of": "June 26, 2019"
+ },
+ {
+  "draw_number": "119",
+  "draw_date": "2019-06-12",
+  "draw_name": "No Program Specified",
+  "invitations": 3350,
+  "crs_cutoff": 465,
+  "tie_break_rule": "June 6, 2019 at 13:51:59 UTC",
+  "distribution_as_of": "June 12, 2019"
+ },
+ {
+  "draw_number": "118",
+  "draw_date": "2019-05-29",
+  "draw_name": "No Program Specified",
+  "invitations": 3350,
+  "crs_cutoff": 470,
+  "tie_break_rule": "May 23, 2019 at 10:18:56 UTC",
+  "distribution_as_of": "May 29, 2019"
+ },
+ {
+  "draw_number": "117",
+  "draw_date": "2019-05-15",
+  "draw_name": "Federal Skilled Trades",
+  "invitations": 500,
+  "crs_cutoff": 332,
+  "tie_break_rule": "August 29, 2018 at 8:32:03 UTC",
+  "distribution_as_of": "May 15, 2019"
+ },
+ {
+  "draw_number": "116",
+  "draw_date": "2019-05-01",
+  "draw_name": "No Program Specified",
+  "invitations": 3350,
+  "crs_cutoff": 450,
+  "tie_break_rule": "November 5, 2018 at 12:27:07 UTC",
+  "distribution_as_of": "May 1, 2019"
+ },
+ {
+  "draw_number": "115",
+  "draw_date": "2019-04-17",
+  "draw_name": "No Program Specified",
+  "invitations": 3350,
+  "crs_cutoff": 451,
+  "tie_break_rule": "April 2, 2019 at 15:01:49 UTC",
+  "distribution_as_of": "April 17, 2019"
+ },
+ {
+  "draw_number": "114",
+  "draw_date": "2019-04-03",
+  "draw_name": "No Program Specified",
+  "invitations": 3350,
+  "crs_cutoff": 451,
+  "tie_break_rule": "January 9, 2019 at 7:35:09 UTC",
+  "distribution_as_of": "April 3, 2019"
+ },
+ {
+  "draw_number": "113",
+  "draw_date": "2019-03-20",
+  "draw_name": "No Program Specified",
+  "invitations": 3350,
+  "crs_cutoff": 452,
+  "tie_break_rule": "February 7, 2019 at 9:59:25 UTC",
+  "distribution_as_of": "March 20, 2019"
+ },
+ {
+  "draw_number": "112",
+  "draw_date": "2019-03-06",
+  "draw_name": "No Program Specified",
+  "invitations": 3350,
+  "crs_cutoff": 454,
+  "tie_break_rule": "February 11, 2019 at 17:21:27 UTC",
+  "distribution_as_of": "March 6, 2019"
+ },
+ {
+  "draw_number": "111",
+  "draw_date": "2019-02-20",
+  "draw_name": "No Program Specified",
+  "invitations": 3350,
+  "crs_cutoff": 457,
+  "tie_break_rule": "December 6, 2018 at 12:38:11 UTC",
+  "distribution_as_of": "February 20, 2019"
+ },
+ {
+  "draw_number": "110",
+  "draw_date": "2019-01-30",
+  "draw_name": "No Program Specified",
+  "invitations": 3350,
+  "crs_cutoff": 438,
+  "tie_break_rule": "April 26, 2018 at 05:00:46 UTC",
+  "distribution_as_of": "January 30, 2019"
+ },
+ {
+  "draw_number": "109",
+  "draw_date": "2019-01-23",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 443,
+  "tie_break_rule": "January 2, 2019 at 03:55:26 UTC",
+  "distribution_as_of": "January 23, 2019"
+ },
+ {
+  "draw_number": "108",
+  "draw_date": "2019-01-09",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 449,
+  "tie_break_rule": "January 2, 2019 at 11:40:53 UTC",
+  "distribution_as_of": "January 9, 2019"
+ },
+ {
+  "draw_number": "107",
+  "draw_date": "2018-12-19",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 439,
+  "tie_break_rule": "February 6, 2018 at 19:31:37 UTC",
+  "distribution_as_of": "December 19, 2018"
+ },
+ {
+  "draw_number": "106",
+  "draw_date": "2018-12-12",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 445,
+  "tie_break_rule": "November 28, 2018 at 09:51:43 UTC",
+  "distribution_as_of": "December 12, 2018"
+ },
+ {
+  "draw_number": "105",
+  "draw_date": "2018-11-28",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 445,
+  "tie_break_rule": "October 22, 2018 at 14:40:13 UTC",
+  "distribution_as_of": "November 28, 2018"
+ },
+ {
+  "draw_number": "104",
+  "draw_date": "2018-11-14",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 449,
+  "tie_break_rule": "September 16, 2018 at 12:41:42 UTC",
+  "distribution_as_of": "November 14, 2018"
+ },
+ {
+  "draw_number": "103",
+  "draw_date": "2018-10-29",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 442,
+  "tie_break_rule": "October 16, 2018 at 06:09:04 UTC",
+  "distribution_as_of": "October 29, 2018"
+ },
+ {
+  "draw_number": "102",
+  "draw_date": "2018-10-15",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 440,
+  "tie_break_rule": "September 18, 2018 at 11:06:29 UTC",
+  "distribution_as_of": "October 15, 2018"
+ },
+ {
+  "draw_number": "101",
+  "draw_date": "2018-10-03",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 445,
+  "tie_break_rule": "October 2, 2018 at 04:02:11 UTC",
+  "distribution_as_of": "October 3, 2018"
+ },
+ {
+  "draw_number": "100",
+  "draw_date": "2018-09-24",
+  "draw_name": "Federal Skilled Trades",
+  "invitations": 400,
+  "crs_cutoff": 284,
+  "tie_break_rule": "February 18, 2018 at 12:31:16 UTC",
+  "distribution_as_of": "September 24, 2018"
+ },
+ {
+  "draw_number": "99",
+  "draw_date": "2018-09-19",
+  "draw_name": "No Program Specified",
+  "invitations": 3500,
+  "crs_cutoff": 441,
+  "tie_break_rule": "September 6, 2018 at 10:28:45 UTC",
+  "distribution_as_of": "September 19, 2018"
+ },
+ {
+  "draw_number": "98",
+  "draw_date": "2018-09-05",
+  "draw_name": "No Program Specified",
+  "invitations": 3900,
+  "crs_cutoff": 440,
+  "tie_break_rule": "April 29, 2018 at 14:28:34 UTC",
+  "distribution_as_of": "September 5, 2018"
+ },
+ {
+  "draw_number": "97",
+  "draw_date": "2018-08-22",
+  "draw_name": "No Program Specified",
+  "invitations": 3750,
+  "crs_cutoff": 440,
+  "tie_break_rule": "February 21, 2018 at 11:28:03 UTC",
+  "distribution_as_of": "August 22, 2018"
+ },
+ {
+  "draw_number": "96",
+  "draw_date": "2018-08-08",
+  "draw_name": "No Program Specified",
+  "invitations": 3750,
+  "crs_cutoff": 440,
+  "tie_break_rule": "January 31, 2018 at 00:06:40 UTC",
+  "distribution_as_of": "August 8, 2018"
+ },
+ {
+  "draw_number": "95",
+  "draw_date": "2018-07-25",
+  "draw_name": "No Program Specified",
+  "invitations": 3750,
+  "crs_cutoff": 441,
+  "tie_break_rule": "December 31, 2017 at 12:14:21 UTC",
+  "distribution_as_of": "July 25, 2018"
+ },
+ {
+  "draw_number": "94",
+  "draw_date": "2018-07-11",
+  "draw_name": "No Program Specified",
+  "invitations": 3750,
+  "crs_cutoff": 442,
+  "tie_break_rule": "June 26, 2018 at 13:18:55 UTC",
+  "distribution_as_of": "July 11, 2018"
+ },
+ {
+  "draw_number": "93",
+  "draw_date": "2018-06-25",
+  "draw_name": "No Program Specified",
+  "invitations": 3750,
+  "crs_cutoff": 442,
+  "tie_break_rule": "January 28, 2018 at 21:06:11 UTC",
+  "distribution_as_of": "June 25, 2018"
+ },
+ {
+  "draw_number": "92",
+  "draw_date": "2018-06-13",
+  "draw_name": "No Program Specified",
+  "invitations": 3750,
+  "crs_cutoff": 451,
+  "tie_break_rule": "July 21, 2017 at 07:01:28 UTC",
+  "distribution_as_of": "June 13, 2018"
+ },
+ {
+  "draw_number": "91b",
+  "draw_date": "2018-05-30",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 200,
+  "crs_cutoff": 902,
+  "tie_break_rule": "March 23, 2018 at 05:38:02 UTC",
+  "distribution_as_of": "May 30, 2018"
+ },
+ {
+  "draw_number": "91a",
+  "draw_date": "2018-05-30",
+  "draw_name": "Federal Skilled Trades",
+  "invitations": 500,
+  "crs_cutoff": 288,
+  "tie_break_rule": "June 7, 2017 at 20:11:13 UTC",
+  "distribution_as_of": "May 30, 2018"
+ },
+ {
+  "draw_number": "90",
+  "draw_date": "2018-05-23",
+  "draw_name": "No Program Specified",
+  "invitations": 3500,
+  "crs_cutoff": 440,
+  "tie_break_rule": "December 30, 2017 at 06:39:40 UTC",
+  "distribution_as_of": "May 23, 2018"
+ },
+ {
+  "draw_number": "89",
+  "draw_date": "2018-05-09",
+  "draw_name": "No Program Specified",
+  "invitations": 3500,
+  "crs_cutoff": 441,
+  "tie_break_rule": "December 12, 2017 at 01:51:38 UTC",
+  "distribution_as_of": "May 9, 2018"
+ },
+ {
+  "draw_number": "88",
+  "draw_date": "2018-04-25",
+  "draw_name": "No Program Specified",
+  "invitations": 3500,
+  "crs_cutoff": 441,
+  "tie_break_rule": "December 8, 2017 at 10:25:33 UTC",
+  "distribution_as_of": "April 25, 2018"
+ },
+ {
+  "draw_number": "87",
+  "draw_date": "2018-04-11",
+  "draw_name": "No Program Specified",
+  "invitations": 3500,
+  "crs_cutoff": 444,
+  "tie_break_rule": "March 26, 2018 at 08:25:40 UTC",
+  "distribution_as_of": "April 11, 2018"
+ },
+ {
+  "draw_number": "86",
+  "draw_date": "2018-03-26",
+  "draw_name": "No Program Specified",
+  "invitations": 3000,
+  "crs_cutoff": 446,
+  "tie_break_rule": "February 23, 2018 at 08:06:19 UTC",
+  "distribution_as_of": "March 26, 2018"
+ },
+ {
+  "draw_number": "85",
+  "draw_date": "2018-03-14",
+  "draw_name": "No Program Specified",
+  "invitations": 3000,
+  "crs_cutoff": 456,
+  "tie_break_rule": "March 3, 2018 at 02:12:11 UTC",
+  "distribution_as_of": "March 14, 2018"
+ },
+ {
+  "draw_number": "84",
+  "draw_date": "2018-02-21",
+  "draw_name": "No Program Specified",
+  "invitations": 3000,
+  "crs_cutoff": 442,
+  "tie_break_rule": "February 11, 2018 at 17:03:32 UTC",
+  "distribution_as_of": "February 21, 2018"
+ },
+ {
+  "draw_number": "83",
+  "draw_date": "2018-02-07",
+  "draw_name": "No Program Specified",
+  "invitations": 3000,
+  "crs_cutoff": 442,
+  "tie_break_rule": "May 29, 2017 at 07:01:15 UTC",
+  "distribution_as_of": "February 7, 2018"
+ },
+ {
+  "draw_number": "82",
+  "draw_date": "2018-01-24",
+  "draw_name": "No Program Specified",
+  "invitations": 2750,
+  "crs_cutoff": 444,
+  "tie_break_rule": "January 17, 2018 at 12:33:00 UTC",
+  "distribution_as_of": "January 24, 2018"
+ },
+ {
+  "draw_number": "81",
+  "draw_date": "2018-01-10",
+  "draw_name": "No Program Specified",
+  "invitations": 2750,
+  "crs_cutoff": 446,
+  "tie_break_rule": "November 18, 2017 at 6:30:42 UTC",
+  "distribution_as_of": "January 10, 2018"
+ },
+ {
+  "draw_number": "80",
+  "draw_date": "2017-12-20",
+  "draw_name": "No Program Specified",
+  "invitations": 2750,
+  "crs_cutoff": 446,
+  "tie_break_rule": "October 02, 2017 at 14:56:53 UTC",
+  "distribution_as_of": "December 20, 2017"
+ },
+ {
+  "draw_number": "79",
+  "draw_date": "2017-12-06",
+  "draw_name": "No Program Specified",
+  "invitations": 2750,
+  "crs_cutoff": 452,
+  "tie_break_rule": "November 16, 2017 at 04:20:20 UTC",
+  "distribution_as_of": "December 6, 2017"
+ },
+ {
+  "draw_number": "78",
+  "draw_date": "2017-11-15",
+  "draw_name": "No Program Specified",
+  "invitations": 2750,
+  "crs_cutoff": 439,
+  "tie_break_rule": "October 19, 2017 at 12:02:28 UTC",
+  "distribution_as_of": "November 15, 2017"
+ },
+ {
+  "draw_number": "77",
+  "draw_date": "2017-11-08",
+  "draw_name": "No Program Specified",
+  "invitations": 2000,
+  "crs_cutoff": 458,
+  "tie_break_rule": "October 23, 2017 at 15:58:27 UTC",
+  "distribution_as_of": "November 8, 2017"
+ },
+ {
+  "draw_number": "76",
+  "draw_date": "2017-11-01",
+  "draw_name": "Federal Skilled Trades",
+  "invitations": 505,
+  "crs_cutoff": 241,
+  "tie_break_rule": "",
+  "distribution_as_of": "November 1, 2017"
+ },
+ {
+  "draw_number": "75",
+  "draw_date": "2017-11-01",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 290,
+  "crs_cutoff": 673,
+  "tie_break_rule": "",
+  "distribution_as_of": "November 1, 2017"
+ },
+ {
+  "draw_number": "74",
+  "draw_date": "2017-10-18",
+  "draw_name": "No Program Specified",
+  "invitations": 2757,
+  "crs_cutoff": 436,
+  "tie_break_rule": "",
+  "distribution_as_of": "October 18, 2017"
+ },
+ {
+  "draw_number": "73",
+  "draw_date": "2017-10-04",
+  "draw_name": "No Program Specified",
+  "invitations": 2801,
+  "crs_cutoff": 438,
+  "tie_break_rule": "",
+  "distribution_as_of": "October 4, 2017"
+ },
+ {
+  "draw_number": "72",
+  "draw_date": "2017-09-20",
+  "draw_name": "No Program Specified",
+  "invitations": 2871,
+  "crs_cutoff": 433,
+  "tie_break_rule": "",
+  "distribution_as_of": "September 20, 2017"
+ },
+ {
+  "draw_number": "71",
+  "draw_date": "2017-09-06",
+  "draw_name": "No Program Specified",
+  "invitations": 2772,
+  "crs_cutoff": 435,
+  "tie_break_rule": "",
+  "distribution_as_of": "September 6, 2017"
+ },
+ {
+  "draw_number": "70",
+  "draw_date": "2017-08-23",
+  "draw_name": "No Program Specified",
+  "invitations": 3035,
+  "crs_cutoff": 434,
+  "tie_break_rule": "",
+  "distribution_as_of": "August 23, 2017"
+ },
+ {
+  "draw_number": "69",
+  "draw_date": "2017-08-09",
+  "draw_name": "No Program Specified",
+  "invitations": 2991,
+  "crs_cutoff": 433,
+  "tie_break_rule": "",
+  "distribution_as_of": "August 9, 2017"
+ },
+ {
+  "draw_number": "68",
+  "draw_date": "2017-08-02",
+  "draw_name": "No Program Specified",
+  "invitations": 3264,
+  "crs_cutoff": 441,
+  "tie_break_rule": "",
+  "distribution_as_of": "August 2, 2017"
+ },
+ {
+  "draw_number": "67",
+  "draw_date": "2017-07-12",
+  "draw_name": "No Program Specified",
+  "invitations": 3202,
+  "crs_cutoff": 440,
+  "tie_break_rule": "",
+  "distribution_as_of": "July 12, 2017"
+ },
+ {
+  "draw_number": "66",
+  "draw_date": "2017-06-28",
+  "draw_name": "No Program Specified",
+  "invitations": 3409,
+  "crs_cutoff": 449,
+  "tie_break_rule": "",
+  "distribution_as_of": "June 28, 2017"
+ },
+ {
+  "draw_number": "65",
+  "draw_date": "2017-05-31",
+  "draw_name": "No Program Specified",
+  "invitations": 3877,
+  "crs_cutoff": 413,
+  "tie_break_rule": "",
+  "distribution_as_of": "May 31, 2017"
+ },
+ {
+  "draw_number": "64",
+  "draw_date": "2017-05-26",
+  "draw_name": "Federal Skilled Trades",
+  "invitations": 400,
+  "crs_cutoff": 199,
+  "tie_break_rule": "",
+  "distribution_as_of": "May 26, 2017"
+ },
+ {
+  "draw_number": "63",
+  "draw_date": "2017-05-26",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 143,
+  "crs_cutoff": 775,
+  "tie_break_rule": "",
+  "distribution_as_of": "May 26, 2017"
+ },
+ {
+  "draw_number": "62",
+  "draw_date": "2017-05-17",
+  "draw_name": "No Program Specified",
+  "invitations": 3687,
+  "crs_cutoff": 415,
+  "tie_break_rule": "",
+  "distribution_as_of": "May 17, 2017"
+ },
+ {
+  "draw_number": "61",
+  "draw_date": "2017-05-04",
+  "draw_name": "No Program Specified",
+  "invitations": 3796,
+  "crs_cutoff": 423,
+  "tie_break_rule": "",
+  "distribution_as_of": "May 4, 2017"
+ },
+ {
+  "draw_number": "60",
+  "draw_date": "2017-04-19",
+  "draw_name": "No Program Specified",
+  "invitations": 3665,
+  "crs_cutoff": 415,
+  "tie_break_rule": "",
+  "distribution_as_of": "April 19, 2017"
+ },
+ {
+  "draw_number": "59",
+  "draw_date": "2017-04-12",
+  "draw_name": "No Program Specified",
+  "invitations": 3923,
+  "crs_cutoff": 423,
+  "tie_break_rule": "",
+  "distribution_as_of": "April 12, 2017"
+ },
+ {
+  "draw_number": "58",
+  "draw_date": "2017-04-05",
+  "draw_name": "No Program Specified",
+  "invitations": 3753,
+  "crs_cutoff": 431,
+  "tie_break_rule": "",
+  "distribution_as_of": "April 5, 2017"
+ },
+ {
+  "draw_number": "57",
+  "draw_date": "2017-03-24",
+  "draw_name": "No Program Specified",
+  "invitations": 3749,
+  "crs_cutoff": 441,
+  "tie_break_rule": "",
+  "distribution_as_of": "March 24, 2017"
+ },
+ {
+  "draw_number": "56",
+  "draw_date": "2017-03-01",
+  "draw_name": "No Program Specified",
+  "invitations": 3884,
+  "crs_cutoff": 434,
+  "tie_break_rule": "",
+  "distribution_as_of": "March 1, 2017"
+ },
+ {
+  "draw_number": "55",
+  "draw_date": "2017-02-22",
+  "draw_name": "No Program Specified",
+  "invitations": 3611,
+  "crs_cutoff": 441,
+  "tie_break_rule": "",
+  "distribution_as_of": "February 22, 2017"
+ },
+ {
+  "draw_number": "54",
+  "draw_date": "2017-02-08",
+  "draw_name": "No Program Specified",
+  "invitations": 3644,
+  "crs_cutoff": 447,
+  "tie_break_rule": "",
+  "distribution_as_of": "February 8, 2017"
+ },
+ {
+  "draw_number": "53",
+  "draw_date": "2017-01-25",
+  "draw_name": "No Program Specified",
+  "invitations": 3508,
+  "crs_cutoff": 453,
+  "tie_break_rule": "",
+  "distribution_as_of": "January 25, 2017"
+ },
+ {
+  "draw_number": "52",
+  "draw_date": "2017-01-11",
+  "draw_name": "No Program Specified",
+  "invitations": 3334,
+  "crs_cutoff": 459,
+  "tie_break_rule": "",
+  "distribution_as_of": "January 11, 2017"
+ },
+ {
+  "draw_number": "51",
+  "draw_date": "2017-01-04",
+  "draw_name": "No Program Specified",
+  "invitations": 2902,
+  "crs_cutoff": 468,
+  "tie_break_rule": "",
+  "distribution_as_of": "January 4, 2017"
+ },
+ {
+  "draw_number": "50",
+  "draw_date": "2016-12-22",
+  "draw_name": "No Program Specified",
+  "invitations": 2878,
+  "crs_cutoff": 475,
+  "tie_break_rule": "",
+  "distribution_as_of": "December 22, 2016"
+ },
+ {
+  "draw_number": "49",
+  "draw_date": "2016-12-16",
+  "draw_name": "No Program Specified",
+  "invitations": 1936,
+  "crs_cutoff": 497,
+  "tie_break_rule": "",
+  "distribution_as_of": "December 16, 2016"
+ },
+ {
+  "draw_number": "48",
+  "draw_date": "2016-11-30",
+  "draw_name": "Provincial Nominee Program",
+  "invitations": 559,
+  "crs_cutoff": 786,
+  "tie_break_rule": "",
+  "distribution_as_of": "November 30, 2016"
+ },
+ {
+  "draw_number": "47",
+  "draw_date": "2016-11-16",
+  "draw_name": "No Program Specified",
+  "invitations": 2427,
+  "crs_cutoff": 470,
+  "tie_break_rule": "",
+  "distribution_as_of": "November 16, 2016"
+ },
+ {
+  "draw_number": "46",
+  "draw_date": "2016-11-02",
+  "draw_name": "No Program Specified",
+  "invitations": 2080,
+  "crs_cutoff": 472,
+  "tie_break_rule": "",
+  "distribution_as_of": "November 2, 2016"
+ },
+ {
+  "draw_number": "45",
+  "draw_date": "2016-10-19",
+  "draw_name": "No Program Specified",
+  "invitations": 1804,
+  "crs_cutoff": 475,
+  "tie_break_rule": "",
+  "distribution_as_of": "October 19, 2016"
+ },
+ {
+  "draw_number": "44",
+  "draw_date": "2016-10-12",
+  "draw_name": "No Program Specified",
+  "invitations": 1518,
+  "crs_cutoff": 484,
+  "tie_break_rule": "",
+  "distribution_as_of": "October 12, 2016"
+ },
+ {
+  "draw_number": "43",
+  "draw_date": "2016-09-21",
+  "draw_name": "No Program Specified",
+  "invitations": 1288,
+  "crs_cutoff": 483,
+  "tie_break_rule": "",
+  "distribution_as_of": "September 21, 2016"
+ },
+ {
+  "draw_number": "42",
+  "draw_date": "2016-09-07",
+  "draw_name": "No Program Specified",
+  "invitations": 1000,
+  "crs_cutoff": 491,
+  "tie_break_rule": "",
+  "distribution_as_of": "September 7, 2016"
+ },
+ {
+  "draw_number": "41",
+  "draw_date": "2016-08-24",
+  "draw_name": "No Program Specified",
+  "invitations": 750,
+  "crs_cutoff": 538,
+  "tie_break_rule": "",
+  "distribution_as_of": "August 24, 2016"
+ },
+ {
+  "draw_number": "40",
+  "draw_date": "2016-08-10",
+  "draw_name": "No Program Specified",
+  "invitations": 754,
+  "crs_cutoff": 490,
+  "tie_break_rule": "",
+  "distribution_as_of": "August 10, 2016"
+ },
+ {
+  "draw_number": "39",
+  "draw_date": "2016-07-27",
+  "draw_name": "No Program Specified",
+  "invitations": 755,
+  "crs_cutoff": 488,
+  "tie_break_rule": "",
+  "distribution_as_of": "July 27, 2016"
+ },
+ {
+  "draw_number": "38",
+  "draw_date": "2016-07-13",
+  "draw_name": "No Program Specified",
+  "invitations": 747,
+  "crs_cutoff": 482,
+  "tie_break_rule": "",
+  "distribution_as_of": "July 13, 2016"
+ },
+ {
+  "draw_number": "37",
+  "draw_date": "2016-06-29",
+  "draw_name": "No Program Specified",
+  "invitations": 773,
+  "crs_cutoff": 482,
+  "tie_break_rule": "",
+  "distribution_as_of": "June 29, 2016"
+ },
+ {
+  "draw_number": "36",
+  "draw_date": "2016-06-15",
+  "draw_name": "No Program Specified",
+  "invitations": 752,
+  "crs_cutoff": 488,
+  "tie_break_rule": "",
+  "distribution_as_of": "June 15, 2016"
+ },
+ {
+  "draw_number": "35",
+  "draw_date": "2016-06-01",
+  "draw_name": "No Program Specified",
+  "invitations": 762,
+  "crs_cutoff": 483,
+  "tie_break_rule": "",
+  "distribution_as_of": "June 1, 2016"
+ },
+ {
+  "draw_number": "34",
+  "draw_date": "2016-05-18",
+  "draw_name": "No Program Specified",
+  "invitations": 763,
+  "crs_cutoff": 484,
+  "tie_break_rule": "",
+  "distribution_as_of": "May 18, 2016"
+ },
+ {
+  "draw_number": "33",
+  "draw_date": "2016-05-06",
+  "draw_name": "No Program Specified",
+  "invitations": 799,
+  "crs_cutoff": 534,
+  "tie_break_rule": "",
+  "distribution_as_of": "May 6, 2016"
+ },
+ {
+  "draw_number": "32",
+  "draw_date": "2016-04-20",
+  "draw_name": "No Program Specified",
+  "invitations": 1018,
+  "crs_cutoff": 468,
+  "tie_break_rule": "",
+  "distribution_as_of": "April 20, 2016"
+ },
+ {
+  "draw_number": "31",
+  "draw_date": "2016-04-06",
+  "draw_name": "No Program Specified",
+  "invitations": 954,
+  "crs_cutoff": 470,
+  "tie_break_rule": "",
+  "distribution_as_of": "April 6, 2016"
+ },
+ {
+  "draw_number": "30",
+  "draw_date": "2016-03-23",
+  "draw_name": "No Program Specified",
+  "invitations": 1014,
+  "crs_cutoff": 470,
+  "tie_break_rule": "",
+  "distribution_as_of": "March 23, 2016"
+ },
+ {
+  "draw_number": "29",
+  "draw_date": "2016-03-09",
+  "draw_name": "No Program Specified",
+  "invitations": 1013,
+  "crs_cutoff": 473,
+  "tie_break_rule": "",
+  "distribution_as_of": "March 9, 2016"
+ },
+ {
+  "draw_number": "28",
+  "draw_date": "2016-02-24",
+  "draw_name": "No Program Specified",
+  "invitations": 1484,
+  "crs_cutoff": 453,
+  "tie_break_rule": "",
+  "distribution_as_of": "February 24, 2016"
+ },
+ {
+  "draw_number": "27",
+  "draw_date": "2016-02-10",
+  "draw_name": "No Program Specified",
+  "invitations": 1505,
+  "crs_cutoff": 459,
+  "tie_break_rule": "",
+  "distribution_as_of": "February 10, 2016"
+ },
+ {
+  "draw_number": "26",
+  "draw_date": "2016-01-27",
+  "draw_name": "No Program Specified",
+  "invitations": 1468,
+  "crs_cutoff": 457,
+  "tie_break_rule": "",
+  "distribution_as_of": "January 27, 2016"
+ },
+ {
+  "draw_number": "25",
+  "draw_date": "2016-01-13",
+  "draw_name": "No Program Specified",
+  "invitations": 1518,
+  "crs_cutoff": 453,
+  "tie_break_rule": "",
+  "distribution_as_of": "January 13, 2016"
+ },
+ {
+  "draw_number": "24",
+  "draw_date": "2016-01-06",
+  "draw_name": "No Program Specified",
+  "invitations": 1463,
+  "crs_cutoff": 461,
+  "tie_break_rule": "",
+  "distribution_as_of": "January 6, 2016"
+ },
+ {
+  "draw_number": "23",
+  "draw_date": "2015-12-18",
+  "draw_name": "No Program Specified",
+  "invitations": 1503,
+  "crs_cutoff": 460,
+  "tie_break_rule": "",
+  "distribution_as_of": "December 18, 2015"
+ },
+ {
+  "draw_number": "22",
+  "draw_date": "2015-12-04",
+  "draw_name": "No Program Specified",
+  "invitations": 1451,
+  "crs_cutoff": 461,
+  "tie_break_rule": "",
+  "distribution_as_of": "December 4, 2015"
+ },
+ {
+  "draw_number": "21",
+  "draw_date": "2015-11-27",
+  "draw_name": "No Program Specified",
+  "invitations": 1559,
+  "crs_cutoff": 472,
+  "tie_break_rule": "",
+  "distribution_as_of": "November 27, 2015"
+ },
+ {
+  "draw_number": "20",
+  "draw_date": "2015-11-13",
+  "draw_name": "No Program Specified",
+  "invitations": 1506,
+  "crs_cutoff": 484,
+  "tie_break_rule": "",
+  "distribution_as_of": "November 13, 2015"
+ },
+ {
+  "draw_number": "19",
+  "draw_date": "2015-10-23",
+  "draw_name": "No Program Specified",
+  "invitations": 1502,
+  "crs_cutoff": 489,
+  "tie_break_rule": "",
+  "distribution_as_of": "October 23, 2015"
+ },
+ {
+  "draw_number": "18",
+  "draw_date": "2015-10-02",
+  "draw_name": "No Program Specified",
+  "invitations": 1530,
+  "crs_cutoff": 450,
+  "tie_break_rule": "",
+  "distribution_as_of": "October 2, 2015"
+ },
+ {
+  "draw_number": "17",
+  "draw_date": "2015-09-18",
+  "draw_name": "No Program Specified",
+  "invitations": 1545,
+  "crs_cutoff": 450,
+  "tie_break_rule": "",
+  "distribution_as_of": "September 18, 2015"
+ },
+ {
+  "draw_number": "16",
+  "draw_date": "2015-09-08",
+  "draw_name": "No Program Specified",
+  "invitations": 1517,
+  "crs_cutoff": 459,
+  "tie_break_rule": "",
+  "distribution_as_of": "September 8, 2015"
+ },
+ {
+  "draw_number": "15",
+  "draw_date": "2015-08-21",
+  "draw_name": "No Program Specified",
+  "invitations": 1523,
+  "crs_cutoff": 456,
+  "tie_break_rule": "",
+  "distribution_as_of": "August 21, 2015"
+ },
+ {
+  "draw_number": "14",
+  "draw_date": "2015-08-07",
+  "draw_name": "No Program Specified",
+  "invitations": 1402,
+  "crs_cutoff": 471,
+  "tie_break_rule": "",
+  "distribution_as_of": "August 7, 2015"
+ },
+ {
+  "draw_number": "13",
+  "draw_date": "2015-07-17",
+  "draw_name": "No Program Specified",
+  "invitations": 1581,
+  "crs_cutoff": 451,
+  "tie_break_rule": "",
+  "distribution_as_of": "July 17, 2015"
+ },
+ {
+  "draw_number": "12",
+  "draw_date": "2015-07-10",
+  "draw_name": "No Program Specified",
+  "invitations": 1516,
+  "crs_cutoff": 463,
+  "tie_break_rule": "",
+  "distribution_as_of": "July 10, 2015"
+ },
+ {
+  "draw_number": "11",
+  "draw_date": "2015-06-26",
+  "draw_name": "No Program Specified",
+  "invitations": 1575,
+  "crs_cutoff": 469,
+  "tie_break_rule": "",
+  "distribution_as_of": "June 26, 2015"
+ },
+ {
+  "draw_number": "10",
+  "draw_date": "2015-06-12",
+  "draw_name": "No Program Specified",
+  "invitations": 1501,
+  "crs_cutoff": 482,
+  "tie_break_rule": "",
+  "distribution_as_of": "June 12, 2015"
+ },
+ {
+  "draw_number": "9",
+  "draw_date": "2015-05-22",
+  "draw_name": "No Program Specified",
+  "invitations": 1361,
+  "crs_cutoff": 755,
+  "tie_break_rule": "",
+  "distribution_as_of": "May 22, 2015"
+ },
+ {
+  "draw_number": "8",
+  "draw_date": "2015-04-17",
+  "draw_name": "No Program Specified",
+  "invitations": 715,
+  "crs_cutoff": 453,
+  "tie_break_rule": "",
+  "distribution_as_of": "April 17, 2015"
+ },
+ {
+  "draw_number": "7",
+  "draw_date": "2015-04-10",
+  "draw_name": "No Program Specified",
+  "invitations": 925,
+  "crs_cutoff": 469,
+  "tie_break_rule": "",
+  "distribution_as_of": "April 10, 2015"
+ },
+ {
+  "draw_number": "6",
+  "draw_date": "2015-03-27",
+  "draw_name": "No Program Specified",
+  "invitations": 1637,
+  "crs_cutoff": 453,
+  "tie_break_rule": "",
+  "distribution_as_of": "March 27, 2015"
+ },
+ {
+  "draw_number": "5",
+  "draw_date": "2015-03-20",
+  "draw_name": "No Program Specified",
+  "invitations": 1620,
+  "crs_cutoff": 481,
+  "tie_break_rule": "",
+  "distribution_as_of": "March 20, 2015"
+ },
+ {
+  "draw_number": "4",
+  "draw_date": "2015-02-27",
+  "draw_name": "No Program Specified",
+  "invitations": 1187,
+  "crs_cutoff": 735,
+  "tie_break_rule": "",
+  "distribution_as_of": "February 27, 2015"
+ },
+ {
+  "draw_number": "3",
+  "draw_date": "2015-02-20",
+  "draw_name": "Canadian Experience Class",
+  "invitations": 849,
+  "crs_cutoff": 808,
+  "tie_break_rule": "",
+  "distribution_as_of": "February 20, 2015"
+ },
+ {
+  "draw_number": "2",
+  "draw_date": "2015-02-07",
+  "draw_name": "No Program Specified",
+  "invitations": 779,
+  "crs_cutoff": 818,
+  "tie_break_rule": "",
+  "distribution_as_of": "February 7, 2015"
+ },
+ {
+  "draw_number": "1",
+  "draw_date": "2015-01-31",
+  "draw_name": "No Program Specified",
+  "invitations": 779,
+  "crs_cutoff": 886,
+  "tie_break_rule": "",
+  "distribution_as_of": "January 31, 2015"
+ }
+]
